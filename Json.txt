@@ -1,0 +1,9 @@
+{"Kisi":[
+  {
+ 	"birinci_oz":"John", 
+	"ikinci_oz":"Doe", 
+	"ucuncu_oz":"Doe", 
+	"dorduncu_oz":"Doe", 
+	"kisi_resim":"Doe", 
+	"kisinin_hayati":"Doe" }
+]}

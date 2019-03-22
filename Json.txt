@@ -1,9 +1,9 @@
 {"Kisi":[
   {
- 	"birinci_oz":"John", 
-	"ikinci_oz":"Doe", 
-	"ucuncu_oz":"Doe", 
-	"dorduncu_oz":"Doe", 
+ 	"birinci_oz":"Modern Türkiyeyi kurdu", 
+	"ikinci_oz":"Türkiyenin ilk Cumhurbaþkaný", 
+	"ucuncu_oz":"Çok büyük bir komutan", 
+	"dorduncu_oz":"Deha", 
 	"kisi_resim":"Doe", 
-	"kisinin_hayati":"Doe" }
+	"kisinin_hayati":"1881 yýlýnda Selanikte Dünyaya geldi.Modern Türkiyeyi kurdu.1938 yýlýnda Dolmabahçe sarayýnda öldü." }
 ]}

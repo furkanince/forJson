@@ -1,9 +1,9 @@
 {"Kisi":[
   {
- 	"birinci_oz":"Modern Türkiyeyi kurdu", 
-	"ikinci_oz":"Türkiyenin ilk Cumhurbaþkaný", 
-	"ucuncu_oz":"Çok büyük bir komutan", 
+ 	"birinci_oz":"Modern Turkiyeyi kurdu", 
+	"ikinci_oz":"Turkiyenin ilk Cumhurbaþkaný", 
+	"ucuncu_oz":"Çok buyuk bir komutan", 
 	"dorduncu_oz":"Deha", 
 	"kisi_resim":"Doe", 
-	"kisinin_hayati":"1881 yýlýnda Selanikte Dünyaya geldi.Modern Türkiyeyi kurdu.1938 yýlýnda Dolmabahçe sarayýnda öldü." }
+	"kisinin_hayati":"1" }
 ]}

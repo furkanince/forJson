@@ -1,7 +1,7 @@
 {"Kisi":[
   {
  	"birinci_oz":"Modern Turkiyeyi kurdu", 
-	"ikinci_oz":"Turkiyenin ilk Cumhurbaşkanı", 
+	"ikinci_oz":"Turkiyenin ilk Cumhurbaşkanı ve çok buyuk bir askeri dehadir", 
 	"ucuncu_oz":"Çok buyuk bir komutan", 
 	"dorduncu_oz":"Deha", 
 	"kisi_resim":"Doe", 

@@ -1,8 +1,8 @@
 {"Kisi":[
   {
- 	"birinci_oz":"Modern Turkiyeyi kurdu", 
-	"ikinci_oz":"Turkiyenin ilk Cumhurba�kan� ve �ok buyuk bir askeri dehadir", 
-	"ucuncu_oz":"�ok buyuk bir komutan", 
+ 	"birinci_oz":"Modern Turkiyeyi kurdu ve osmanlıyıyııı yikitiiiiiiiii", 
+	"ikinci_oz":"Turkiyenin ilk Cumhurbaşkanı ve çok buyuk bir askeri dehadir", 
+	"ucuncu_oz":"Çok buyuk bir komutan", 
 	"dorduncu_oz":"Deha", 
 	"kisi_resim":"Doe", 
 	"kisinin_hayati":"1" }

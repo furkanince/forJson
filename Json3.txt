@@ -6,7 +6,7 @@
       "oz2": "ACSEL",
       "oz3": "ACSEL",
       "oz4": "ACSEL",
-      "hayati": "Acıselsan Acıpayam Selüloz Sanayi ve Ticaret A.Ş.",
+      "hayati": "AcÃ½selsan AcÃ½payam SelÃ¼loz Sanayi ve Ticaret A.",
       "resimpath": "Hisse"
     }
   ]

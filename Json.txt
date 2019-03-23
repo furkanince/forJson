@@ -1,9 +1,13 @@
-﻿{"Kisi":[
-  {
- 	"birinci_oz":"Modern Turkiyeyi kurdu ve osmanlıyıyııı yikitiiiiiiiii", 
-	"ikinci_oz":"Turkiyenin ilk Cumhurbaşkanı ve çok buyuk bir askeri dehadir", 
-	"ucuncu_oz":"Çok buyuk bir komutan", 
-	"dorduncu_oz":"Deha ve çok büyük askeri stratejisttir.", 
-	"kisi_resim":"Doe", 
-	"kisinin_hayati":"1" }
-]}
+﻿{
+  "code": "0",
+  "data": [
+    {
+      "oz1": 3966,
+      "oz2": "ACSEL",
+      "oz3": "ACSEL",
+      "oz4": "ACSEL",
+      "hayati": "Acýselsan Acýpayam Selüloz Sanayi ve Ticaret A.",
+      "resimpath": "Hisse"
+    }
+  ]
+}

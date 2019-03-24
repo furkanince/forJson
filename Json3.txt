@@ -2,11 +2,10 @@
   "code": "0",
   "data": [
     {
-      "oz1": 3966,
-      "oz2": "ACSEL",
-      "oz3": "ACSEL",
-      "oz4": "ACSEL",
-      "hayati": "Acýselsan Acýpayam Selüloz Sanayi ve Ticaret A.",
+      "oz1": "Sakarya Üniversitesine başladı",
+      "oz2": "1996 yılında doğdu",
+      "oz3": "Konya Çumra",
+      "oz4": "İlki geçtiğimiz yıl düzenlenen TEKNOFEST İSTANBUL Havacılık, Uzay ve Teknoloji Festivali 550 binin üzerinde ziyaretçisi ile Dünya'nın en büyük ikinci havacılık festivali olmayı başarmıştır. 2019 yılında da yine birbirinden muhteşem organizasyonlara ev sahipliği yapacak olan TEKNOFEST'te düzenlenecek olan organizasyonlardan bazıları aşağıdaki gibidir: ",
       "resimpath": "Hisse"
     }
   ]

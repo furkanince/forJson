@@ -1,13 +1,9 @@
 ﻿{
-  "code": "0",
   "data": [
     {
-      "oz1": İstanbulu fethetti,
+      "oz1": "İstanbulu fethetti",
       "oz2": "Askeri strateji üstadı",
-      "oz3": "Bilime büyük önem verir",
-      "oz4": "ACSEL",
-      "hayati": "Acýselsan Acýpayam Selüloz Sanayi ve Ticaret A.",
-      "resimpath": "Hisse"
+      "oz3": "Bilime büyük önem verir"
     }
   ]
 }

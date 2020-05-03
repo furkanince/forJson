@@ -1,0 +1,38 @@
+{"sorular" :[
+	{
+		"soru_id":"1",
+		"soru":"Galatasaray'ın kaç şampiyonluğu vardır?",
+		"secenekA":"22",
+		"secenekB":"23",
+		"secenekC":"21",
+		"timer":"10L",
+		"cevap":"23"
+	},
+	{
+		"soru_id":"2",
+		"soru":"Fenerbahçe'nin kaç şampiyonluğu vardır?",
+		"secenekA":"19",
+		"secenekB":"23",
+		"secenekC":"21",
+		"timer":"9L",
+		"cevap":"19"
+	},
+	{
+		"soru_id":"3",
+		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
+		"secenekA":"15",
+		"secenekB":"23",
+		"secenekC":"21",
+		"timer":"10L",
+		"cevap":"15"
+	},
+	{
+		"soru_id":"4",
+		"soru":"Trabzospor'un kaç şampiyonluğu vardır?",
+		"secenekA":"22",
+		"secenekB":"23",
+		"secenekC":"5",
+		"timer":"10L",
+		"cevap":"5"
+	}
+]}

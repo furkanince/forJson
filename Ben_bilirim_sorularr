@@ -5,7 +5,7 @@
 		"secenekA":"22",
 		"secenekB":"23",
 		"secenekC":"21",
-		"timer":"10L",
+		"timer":"10",
 		"cevap":"23"
 	},
 	{
@@ -14,7 +14,7 @@
 		"secenekA":"19",
 		"secenekB":"23",
 		"secenekC":"21",
-		"timer":"9L",
+		"timer":"9",
 		"cevap":"19"
 	},
 	{
@@ -23,7 +23,7 @@
 		"secenekA":"15",
 		"secenekB":"23",
 		"secenekC":"21",
-		"timer":"10L",
+		"timer":"7",
 		"cevap":"15"
 	},
 	{
@@ -32,7 +32,7 @@
 		"secenekA":"22",
 		"secenekB":"23",
 		"secenekC":"5",
-		"timer":"10L",
+		"timer":"5",
 		"cevap":"5"
 	}
 ]}

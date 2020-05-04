@@ -1,129 +1,129 @@
 {"sorular" :[
 	{
 		"soru_id":"1",
-		"soru":"Galatasaray'ın kaç şampiyonluğu vardır?",
-		"secenekA":"22",
-		"secenekB":"23",
-		"secenekC":"21",
+		"soru":"Dört yapraklısının şans getirdiğine inanılan bitki türü hangisidir?",
+		"secenekA":"Yonca",
+		"secenekB":"Papatya",
+		"secenekC":"Yasemin",
 		"timer":"10",
-		"cevap":"23"
+		"cevap":"Yonca"
 	},
 	{
 		"soru_id":"2",
-		"soru":"Fenerbahçe'nin kaç şampiyonluğu vardır?",
-		"secenekA":"19",
-		"secenekB":"23",
-		"secenekC":"21",
+		"soru":"İleri yaşlarda gelen mutluluk için kullanılan tabir hangisidir?",
+		"secenekA":"Altın yıl",
+		"secenekB":"Gümüş yıl",
+		"secenekC":"İkinci bahar",
 		"timer":"9",
-		"cevap":"19"
+		"cevap":"İkinci bahar"
 	},
 	{
 		"soru_id":"3",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
+		"soru":"“Başımda kavak yelleri esen o yaş” dizesinde hangi dönemden söz edilmektedir?",
+		"secenekA":"Gençlik",
+		"secenekB":"Çocukluk",
+		"secenekC":"Yaşlılık",
 		"timer":"7",
-		"cevap":"15"
+		"cevap":"Gençlik"
 	},
 	{
 		"soru_id":"4",
-		"soru":"Trabzospor'un kaç şampiyonluğu vardır?",
-		"secenekA":"22",
-		"secenekB":"23",
-		"secenekC":"5",
+		"soru":"Oruç ayına adını veren “Ramazan” sözcüğünün kelime anlamı nedir?",
+		"secenekA":"Boyun eğmek",
+		"secenekB":"Yanmak",
+		"secenekC":"Sabretmek",
 		"timer":"5",
-		"cevap":"5"
+		"cevap":"Yanmak"
 	},
 	{
 		"soru_id":"5",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
+		"soru":"Ramazan’da, sahur vaktini bildirmek için mahalle aralarında çalınan enstrüman hangisidir?",
+		"secenekA":"Davul",
+		"secenekB":"Klarnet",
+		"secenekC":"Ney",
 		"timer":"7",
-		"cevap":"15"
+		"cevap":"Davul"
 	},
 	{
 		"soru_id":"6",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
+		"soru":"“Köşk” tabiri hangi makam için kullanılır?",
+		"secenekA":"Başbakanlık",
+		"secenekB":"Büyükelçilik",
+		"secenekC":"Cumhurbaşkanlığı",
 		"timer":"7",
-		"cevap":"15"
+		"cevap":"Cumhurbaşkanlığı"
 	},
 	{
 		"soru_id":"7",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
+		"soru":"Makyaj yaparken ilk olarak hangisi sürülür?",
+		"secenekA":"Ruj",
+		"secenekB":"Allık",
+		"secenekC":"Fondöten",
 		"timer":"7",
-		"cevap":"15"
+		"cevap":"Fondöten"
 	},
 	{
 		"soru_id":"8",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
+		"soru":"Bir deyimimize göre doğru söyleyeni, kaç köyden kovarlar?",
+		"secenekA":"9",
+		"secenekB":"3",
+		"secenekC":"7",
 		"timer":"7",
-		"cevap":"15"
+		"cevap":"9"
 	},
 	{
 		"soru_id":"9",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
+		"soru":"Devlet memurlarının çalışma hayatını düzenleyen yasanın numarası kaçtır?",
+		"secenekA":"647",
+		"secenekB":"135",
+		"secenekC":"657",
 		"timer":"7",
-		"cevap":"15"
+		"cevap":"657"
 	},
 	{
 		"soru_id":"10",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
+		"soru":"“Kırmızı gül”ün anlamı nedir?",
+		"secenekA":"Ayrılık",
+		"secenekB":"Seni seviyorum",
+		"secenekC":"Özür dileme",
 		"timer":"7",
-		"cevap":"15"
+		"cevap":"Seni seviyorum"
 	},
 	{
 		"soru_id":"11",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
+		"soru":"“Cumhuriyet altını” kaç ayardır?",
+		"secenekA":"22",
+		"secenekB":"18",
+		"secenekC":"24",
 		"timer":"7",
-		"cevap":"15"
+		"cevap":"22"
 	},
 	{
 		"soru_id":"12",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
+		"soru":"“Çay” toplanırken ne renktir?",
+		"secenekA":"Siyah",
+		"secenekB":"Yeşil",
+		"secenekC":"Sarı",
 		"timer":"7",
-		"cevap":"15"
+		"cevap":"Yeşil"
 	},
 	{
 		"soru_id":"13",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
+		"soru":"“Kesmece bunlar” tanımı hangi meyve türü için kullanılır?",
+		"secenekA":"Şeftali",
+		"secenekB":"Portakal",
+		"secenekC":"Karpuz",
 		"timer":"7",
-		"cevap":"15"
+		"cevap":"Karpuz"
 	},
 	{
 		"soru_id":"14",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
+		"soru":"Basketbol topu ne renktir?",
+		"secenekA":"Turuncu",
+		"secenekB":"Yeşil",
+		"secenekC":"Kırmızı",
 		"timer":"7",
-		"cevap":"15"
+		"cevap":"Turuncu"
 	},
 	{
 		"soru_id":"15",
@@ -136,75 +136,75 @@
 	},
 	{
 		"soru_id":"16",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
+		"soru":"İçli köfte yapımında hangi bakliyat kullanılır?",
+		"secenekA":"Pirinç",
+		"secenekB":"Nohut",
+		"secenekC":"Bulgur",
 		"timer":"7",
-		"cevap":"15"
+		"cevap":"Bulgur"
 	},
 	{
 		"soru_id":"17",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
+		"soru":"“Milli” sözcüğü ile başlayan kaç bakanlık vardır?",
+		"secenekA":"1",
+		"secenekB":"2",
+		"secenekC":"3",
 		"timer":"7",
-		"cevap":"15"
+		"cevap":"2"
 	},
 	{
 		"soru_id":"18",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
+		"soru":"Türkiye’de “aile cüzdanı” ne renktir?",
+		"secenekA":"Siyah",
+		"secenekB":"Yeşil",
+		"secenekC":"Bordo",
 		"timer":"7",
-		"cevap":"15"
+		"cevap":"Bordo"
 	},
 	{
 		"soru_id":"19",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
+		"soru":"Ağrı Dağı'nın, Ağrı ili dışında hangi ilde toprakları vardır?",
+		"secenekA":"Erzurum",
+		"secenekB":"Tunceli",
+		"secenekC":"Iğdır",
 		"timer":"7",
-		"cevap":"15"
+		"cevap":"Iğdır"
 	},
 	{
 		"soru_id":"20",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
+		"soru":"“Eğer dünyada tek bir ülke olsaydı, başkenti İstanbul olurdu” sözü kime aittir?",
+		"secenekA":"Winston Churchill",
+		"secenekB":"Fatih Sultan Mehmet",
+		"secenekC":"Napolyan Bonaparte",
 		"timer":"7",
-		"cevap":"15"
+		"cevap":"Napolyan Bonaparte"
 	},
 	{
 		"soru_id":"21",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
+		"soru":"En erken oruç açan ilimiz hangisidir?",
+		"secenekA":"Diyarbakır",
+		"secenekB":"Hakkari",
+		"secenekC":"Rize",
 		"timer":"7",
-		"cevap":"15"
+		"cevap":"Hakkari"
 	},
 	{
 		"soru_id":"22",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
+		"soru":"1946'da Louis Réard’ın yarattığı, moda dünyasında bomba etkisi yaratan giysi hangisidir?",
+		"secenekA":"Bikini",
+		"secenekB":"Mini etek",
+		"secenekC":"Külotlu çorap",
 		"timer":"7",
-		"cevap":"15"
+		"cevap":"Bikini"
 	},
 	{
 		"soru_id":"23",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
+		"soru":"Halk edebiyatımızda uzun boyu anlatmak için kullanılan ağaç türü hangisidir?",
+		"secenekA":"Çınar",
+		"secenekB":"Selvi",
+		"secenekC":"Ardıç",
 		"timer":"7",
-		"cevap":"15"
+		"cevap":"Selvi"
 	},
 	{
 		"soru_id":"24",
@@ -217,96 +217,51 @@
 	},
 	{
 		"soru_id":"25",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
+		"soru":"Nohuttan yapılan kuruyemiş hangisidir?",
+		"secenekA":"Yer fıstığı",
+		"secenekB":"Leblebi",
+		"secenekC":"Badem",
 		"timer":"7",
-		"cevap":"15"
+		"cevap":"Leblebi"
 	},
 	{
 		"soru_id":"26",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
+		"soru":"Hangi ülkenin kraliçesinin eşi prenstir?",
+		"secenekA":"Norveç",
+		"secenekB":"İngiltere",
+		"secenekC":"İspanya",
 		"timer":"7",
-		"cevap":"15"
+		"cevap":"İngiltere"
 	},
 	{
 		"soru_id":"27",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
+		"soru":"Tenis topu ne renktir?",
+		"secenekA":"Turuncu",
+		"secenekB":"Sarı",
+		"secenekC":"Yeşil",
 		"timer":"7",
-		"cevap":"15"
+		"cevap":"Sarı"
 	},
 	{
 		"soru_id":"28",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
+		"soru":"Türk Hava Yolları'nın uçuş kodu nedir?",
+		"secenekA":"TY",
+		"secenekB":"TK",
+		"secenekC":"THY",
 		"timer":"7",
-		"cevap":"15"
+		"cevap":"TK"
 	},
 	{
 		"soru_id":"29",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
+		"soru":"Kur’an-ı Kerim’in, besmelesiz başlayan suresi hangisidir?",
+		"secenekA":"Tevbe",
+		"secenekB":"Araf",
+		"secenekC":"Enam",
 		"timer":"7",
-		"cevap":"15"
+		"cevap":"Tevbe"
 	},
 	{
 		"soru_id":"30",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
-		"timer":"7",
-		"cevap":"15"
-	},
-	{
-		"soru_id":"31",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
-		"timer":"7",
-		"cevap":"15"
-	},
-	{
-		"soru_id":"32",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
-		"timer":"7",
-		"cevap":"15"
-	},
-	{
-		"soru_id":"33",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
-		"timer":"7",
-		"cevap":"15"
-	},
-	{
-		"soru_id":"34",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
-		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
-		"timer":"7",
-		"cevap":"15"
-	},
-	{
-		"soru_id":"35",
 		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
 		"secenekA":"15",
 		"secenekB":"23",

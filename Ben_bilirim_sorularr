@@ -262,11 +262,643 @@
 	},
 	{
 		"soru_id":"30",
-		"soru":"Beşiktaş'ın kaç şampiyonluğu vardır?",
+		"soru":"“Twitter” kullanıcılarına en fazla kaç karakterlik metin yazma olanağı sunar?",
+		"secenekA":"70",
+		"secenekB":"140",
+		"secenekC":"250",
+		"timer":"7",
+		"cevap":"140"
+	},
+	
+	{
+		"soru_id":"31",
+		"soru":"Saygı belirtmek için “hazır ol” durumunda kaç saniye beklenir?",
+		"secenekA":"60",
+		"secenekB":"30",
+		"secenekC":"90",
+		"timer":"7",
+		"cevap":"60"
+	},
+	
+	{
+		"soru_id":"32",
+		"soru":"“Postiş” nedir?",
+		"secenekA":"Takma kirpik",
+		"secenekB":"Takma saç",
+		"secenekC":"Kürk parçası",
+		"timer":"7",
+		"cevap":"Takma saç"
+	},
+	{
+		"soru_id":"33",
+		"soru":"Atletler, uluslararası müsabakalarda hangi yönde koşarlar?",
+		"secenekA":"Saat yönünün tersine",
+		"secenekB":"Kuzeye",
+		"secenekC":"Saat yönünde",
+		"timer":"7",
+		"cevap":"Saat yönünün tersine"
+	},
+	{
+		"soru_id":"34",
+		"soru":"Eskiden berberler saç kesmenin dışında hangi işi de yaparlardı?",
+		"secenekA":"Çilingirlik",
+		"secenekB":"Diş çekmek",
+		"secenekC":"Kırık-çıkıkçılık",
+		"timer":"7",
+		"cevap":"Diş çekmek"
+	},
+	{
+		"soru_id":"35",
+		"soru":"Dünyada tek “At Bakanlığı”nın bulunduğu ülke hangisidir?",
+		"secenekA":"Türkmenistan",
+		"secenekB":"Suudi Arabistan",
+		"secenekC":"Moğolistan",
+		"timer":"7",
+		"cevap":"Türkmenistan"
+	},
+	{
+		"soru_id":"36",
+		"soru":"Bir eserin, teknik olarak, kitap sayılabilmesi için en az kaç sayfadan oluşması gerekir?",
+		"secenekA":"49",
+		"secenekB":"17",
+		"secenekC":"32",
+		"timer":"7",
+		"cevap":"49"
+	},
+	{
+		"soru_id":"37",
+		"soru":"NBA’nın resmi logosundaki siluet, hangi eski oyuncu model alınarak tasarlanmıştır?",
+		"secenekA":"Jerry West",
+		"secenekB":"Michael Jordan",
+		"secenekC":"Magic Johnson",
+		"timer":"7",
+		"cevap":"Jerry West"
+	},
+	{
+		"soru_id":"38",
+		"soru":"Midye dolma yenilirken yanında ne ikram edilir?",
+		"secenekA":"Sirke",
+		"secenekB":"Limon",
+		"secenekC":"Yoğurt",
+		"timer":"7",
+		"cevap":"Limon"
+	},
+	{
+		"soru_id":"39",
+		"soru":"Eşinizin babası sizin babanızın nesi olur?",
+		"secenekA":"Kayınpederi",
+		"secenekB":"Dünürü",
+		"secenekC":"Bacanağı",
+		"timer":"15",
+		"cevap":"Dünürü"
+	},
+	{
+		"soru_id":"40",
+		"soru":"Hayali yaratık “Pikaçu” hangi çizgi filmin kahramanıdır?",
+		"secenekA":"Pokemon",
+		"secenekB":"Külkedisi",
+		"secenekC":"Şirinler",
+		"timer":"7",
+		"cevap":"Pokemon"
+	},
+	{
+		"soru_id":"41",
+		"soru":"Bir futbol maçında, bir takım, sahada en az kaç kişi olmalıdır?",
+		"secenekA":"5",
+		"secenekB":"7",
+		"secenekC":"6",
+		"timer":"7",
+		"cevap":"7"
+	},
+	{
+		"soru_id":"42",
+		"soru":"“İyilik yap denize at, balık bilmezse halik bilir” atasözünde kullanılan “halik” ne demektir?",
+		"secenekA":"Tanrı",
+		"secenekB":"Martı",
+		"secenekC":"Derya",
+		"timer":"7",
+		"cevap":"Tanrı"
+	},
+	{
+		"soru_id":"43",
+		"soru":"“Sen gözlerimde bir renk, kulaklarımda bir ses ve içimde bir nefes olarak kalacaksın” şarkısının bestesi kime aittir?",
+		"secenekA":"Saadettin Kaynak",
+		"secenekB":"Erol Sayan",
+		"secenekC":"Münir Nurettin Selçuk",
+		"timer":"7",
+		"cevap":"Erol Sayan"
+	},
+	{
+		"soru_id":"44",
+		"soru":"Çıkılan bir yemekte herkesin kendi hesabını ödemesi usulüne ne ad verilir?",
+		"secenekA":"Japon",
+		"secenekB":"Alman",
+		"secenekC":"İngiliz",
+		"timer":"7",
+		"cevap":"Alman"
+	},
+	{
+		"soru_id":"45",
+		"soru":"Vücuda şekil vermek amacıyla fazla yağları aldırma anlamındaki terim hangisidir?",
+		"secenekA":"Liposuction",
+		"secenekB":"Silikon",
+		"secenekC":"Peeling",
+		"timer":"7",
+		"cevap":"Liposuction"
+	},
+	{
+		"soru_id":"46",
+		"soru":"Bursaspor maskot olarak hangi hayvanı kullanır?",
+		"secenekA":"Timsah",
+		"secenekB":"Horoz",
+		"secenekC":"Şahin",
+		"timer":"7",
+		"cevap":"Timsah"
+	},
+	{
+		"soru_id":"47",
+		"soru":"Klasik müzik orkestralarına karşıdan bakıldığında en önde hangi enstrüman grubu yer alır?",
+		"secenekA":"Yaylı çalgılar",
+		"secenekB":"Üflemeli çalgılar",
+		"secenekC":"Klavyeli çalgılar",
+		"timer":"7",
+		"cevap":"Yaylı çalgılar"
+	},
+	{
+		"soru_id":"48",
+		"soru":"Hayvan adı olan kaç burç vardır?",
+		"secenekA":"5",
+		"secenekB":"7",
+		"secenekC":"8",
+		"timer":"12",
+		"cevap":"7"
+	},
+	{
+		"soru_id":"49",
+		"soru":"Sağını solunu karıştıranlar için hatırlatma olarak kullanılan bitkiler hangileridir?",
+		"secenekA":"Soğan-sarımsak",
+		"secenekB":"Soğan-salatalık",
+		"secenekC":"Sarımsal-salatalık",
+		"timer":"12",
+		"cevap":"Soğan-sarımsak"
+	},
+	{
+		"soru_id":"50",
+		"soru":"Türkiye’de posta kodları kaç rakamdan oluşur?",
+		"secenekA":"2",
+		"secenekB":"3",
+		"secenekC":"5",
+		"timer":"7",
+		"cevap":"5"
+	},
+	{
+		"soru_id":"51",
+		"soru":"Elde, en yavaş uzayan parmak tırnağı hangisidir?",
+		"secenekA":"Yüzük parmağı",
+		"secenekB":"Başparmak",
+		"secenekC":"Serçe parmak",
+		"timer":"7",
+		"cevap":"Başparmak"
+	},
+	{
+		"soru_id":"52",
+		"soru":"Dini inanışa göre, yeni doğan bir bebeğin adı kulağına kaç kez söylenir?",
+		"secenekA":"3",
+		"secenekB":"1",
+		"secenekC":"12",
+		"timer":"7",
+		"cevap":"3"
+	},
+	{
+		"soru_id":"53",
+		"soru":"Bir albümde Mevlana’nın bir şiirinin çevirisini okuyan sanatçı kimdir?",
+		"secenekA":"Rachid Taha",
+		"secenekB":"Cat Stevens",
+		"secenekC":"Madonna",
+		"timer":"7",
+		"cevap":"Madonna"
+	},
+	{
+		"soru_id":"54",
+		"soru":"Cep telefonlarında gelen aramayı cevaplamak için kullanılan tuş ne renktir?",
+		"secenekA":"Yeşil",
+		"secenekB":"Siyah",
+		"secenekC":"Kırmızı",
+		"timer":"7",
+		"cevap":"Yeşil"
+	},
+	{
+		"soru_id":"55",
+		"soru":"",
+		"secenekA":"",
+		"secenekB":"",
+		"secenekC":"",
+		"timer":"7",
+		"cevap":""
+	},
+	{
+		"soru_id":"56",
+		"soru":"İtfaiye aracının tepe lambası ne renktir?",
+		"secenekA":"Sarı",
+		"secenekB":"Kırmızı",
+		"secenekC":"Mavi",
+		"timer":"7",
+		"cevap":"Kırmızı"
+	},
+	{
+		"soru_id":"57",
+		"soru":"Orucun mazeretsiz bozulması durumunda, tutulması gereken “kefaret orucu” kaç gündür?",
+		"secenekA":"7",
+		"secenekB":"40",
+		"secenekC":"60",
+		"timer":"7",
+		"cevap":"60"
+	},
+	{
+		"soru_id":"58",
+		"soru":"“7/24 açığız” ibaresindeki 7 neyi temsil eder?",
+		"secenekA":"Ay",
+		"secenekB":"Gün",
+		"secenekC":"Saat",
+		"timer":"7",
+		"cevap":"Gün"
+	},
+	{
+		"soru_id":"59",
+		"soru":"Tedavüldeki en küçük kağıt banknot kaç liradır?",
+		"secenekA":"1",
+		"secenekB":"5",
+		"secenekC":"10",
+		"timer":"7",
+		"cevap":"5"
+	},
+	{
+		"soru_id":"60",
+		"soru":"Üniversite giriş sınavları sorularında kaç şık vardır?",
+		"secenekA":"2",
+		"secenekB":"5",
+		"secenekC":"4",
+		"timer":"7",
+		"cevap":"5"
+	},
+	{
+		"soru_id":"61",
+		"soru":"Türkiye’de genel seçimlerde seçim barajı yüzde kaçtır?",
+		"secenekA":"10",
+		"secenekB":"7",
+		"secenekC":"49",
+		"timer":"7",
+		"cevap":"10"
+	},
+	{
+		"soru_id":"62",
+		"soru":"Karışık, düzensiz yazılarla dolu defterler için kullanılan benzetme hangisidir?",
+		"secenekA":"Bakkal defteri",
+		"secenekB":"Vergi defteri",
+		"secenekC":"Doktor defteri",
+		"timer":"7",
+		"cevap":"Bakkal defteri"
+	},
+	{
+		"soru_id":"63",
+		"soru":"Külkedisi’nin baloya gidebilmesi için, perinin, 6 adet ata dönüştürdüğü hayvan hangisidir?",
+		"secenekA":"Fare",
+		"secenekB":"Domuz",
+		"secenekC":"Tavşan",
+		"timer":"7",
+		"cevap":"Fare"
+	},
+	{
+		"soru_id":"64",
+		"soru":"“0002” plaka kimin aracına aittir?",
+		"secenekA":"Başbakan",
+		"secenekB":"Meclis Başkanı",
+		"secenekC":"Cumhurbaşkanı",
+		"timer":"7",
+		"cevap":"Başbakan"
+	},
+	{
+		"soru_id":"65",
+		"soru":"Dini inanışa göre “yasak meyve” hangisidir?",
+		"secenekA":"Elma",
+		"secenekB":"Nar",
+		"secenekC":"Hurma",
+		"timer":"7",
+		"cevap":"Elma"
+	},
+	{
+		"soru_id":"66",
+		"soru":"Adı tek heceden oluşan kaç ilimiz vardır?",
+		"secenekA":"1",
+		"secenekB":"2",
+		"secenekC":"3",
+		"timer":"20",
+		"cevap":"3"
+	},
+	{
+		"soru_id":"67",
+		"soru":"“Bu ülke yönetilemez; idare edilir” cümlesi hangi siyasetçiye aittir?",
+		"secenekA":"Necmettin Erbakan",
+		"secenekB":"Süleyman Demirel",
+		"secenekC":"Turgut Özal",
+		"timer":"7",
+		"cevap":"Süleyman Demirel"
+	},
+	{
+		"soru_id":"68",
+		"soru":"İlkbahar ve sonbaharda giyilen kıyafetleri betimlemede kullanılan sözcük hangisidir?",
+		"secenekA":"Yazlık",
+		"secenekB":"Kışlık",
+		"secenekC":"Mevsimlik",
+		"timer":"7",
+		"cevap":"Mevsimlik"
+	},
+	{
+		"soru_id":"69",
+		"soru":"Bodrum’un beyaz evlerini eşsiz rengiyle süsleyen, Bodrum ile bütünleşmiş çiçek hangisidir?",
+		"secenekA":"Kamelya",
+		"secenekB":"Papatya",
+		"secenekC":"Begonvil",
+		"timer":"7",
+		"cevap":"Begonvil"
+	},
+	{
+		"soru_id":"70",
+		"soru":"Sofrada tuzun nemlenmemesi için tuzluğa hangi bakliyat konulur?",
+		"secenekA":"Mercimek",
+		"secenekB":"Nohut",
+		"secenekC":"Pirinç",
+		"timer":"7",
+		"cevap":"Pirinç"
+	},
+	{
+		"soru_id":"71",
+		"soru":"Anadolu’da rüzgâr çağırmak için kullanılan söz hangisidir?",
+		"secenekA":"Ya Ali",
+		"secenekB":"Kasım kasım",
+		"secenekC":"Haydar haydar",
+		"timer":"10",
+		"cevap":"Haydar haydar"
+	},
+	{
+		"soru_id":"72",
+		"soru":"Ortaya çıkardığı gizli belgelerle dünya siyasetinin yönünü değiştiren “Wikileaks”ın kurucusu kimdir?",
+		"secenekA":"Dominique Strauss-Kahn",
+		"secenekB":"Julian Assange",
+		"secenekC":"Bill Gates",
+		"timer":"10",
+		"cevap":"Julian Assange"
+	},
+	{
+		"soru_id":"73",
+		"soru":"“Sünger Bob” çizgi filminde, Bay Yengeç’in ezeli düşmanı olan deniz canlısı nedir?",
+		"secenekA":"Ahtapot",
+		"secenekB":"Mürekkep balığı",
+		"secenekC":"Plankton",
+		"timer":"7",
+		"cevap":"Plankton"
+	},
+	{
+		"soru_id":"74",
+		"soru":"Nüfus cüzdanlarının arka yüzünde, sağ üst köşede, hangi bilgi yer alır?",
+		"secenekA":"Kan grubu",
+		"secenekB":"Medeni hali",
+		"secenekC":"Dini",
+		"timer":"10",
+		"cevap":"Kan grubu"
+	},
+	{
+		"soru_id":"75",
+		"soru":"1903’te kadın mucit Mary Anderson tarafından geliştirilip patenti alınan otomobil parçası hangisidir?",
+		"secenekA":"Dikiz aynası",
+		"secenekB":"Far",
+		"secenekC":"Silecek",
+		"timer":"10",
+		"cevap":"Silecek"
+	},
+	{
+		"soru_id":"76",
+		"soru":"Masala göre öpülünce prense dönüşen hayvan hangisidir?",
+		"secenekA":"Kurbağa",
+		"secenekB":"Sincap",
+		"secenekC":"Tavşan",
+		"timer":"7",
+		"cevap":"Kurbağa"
+	},
+	{
+		"soru_id":"77",
+		"soru":"Telefon alan kodu iki tane olan şehir hangisidir?",
+		"secenekA":"Aydın",
+		"secenekB":"İstanbul",
+		"secenekC":"Zonguldak",
+		"timer":"10",
+		"cevap":"İstanbul"
+	},
+	{
+		"soru_id":"78",
+		"soru":"“Hazan” hangi mevsimdir?",
+		"secenekA":"Sonbahar",
+		"secenekB":"İlkbahar",
+		"secenekC":"Yaz",
+		"timer":"10",
+		"cevap":"Sonbahar"
+	},
+	{
+		"soru_id":"79",
+		"soru":"Gazlı içeceklerde kullanılan gaz hangisidir?",
+		"secenekA":"Azot",
+		"secenekB":"Oksijen",
+		"secenekC":"Karbondioksit",
+		"timer":"7",
+		"cevap":"Karbondioksit"
+	},
+	{
+		"soru_id":"80",
+		"soru":"Amerikalılar tarafından sık tüketilen ve filmlerde polislerin favorisi olan çörek hangisi?",
+		"secenekA":"Donut",
+		"secenekB":"Waffle",
+		"secenekC":"Kruvasan",
+		"timer":"10",
+		"cevap":"Donut"
+	},
+	{
+		"soru_id":"81",
+		"soru":"“Diline pelensenk etmek” deyimindeki “pelesenk” nedir?",
+		"secenekA":"Sakız türü",
+		"secenekB":"Ağaç türü",
+		"secenekC":"Mühür",
+		"timer":"10",
+		"cevap":"Ağaç türü"
+	},
+	{
+		"soru_id":"82",
+		"soru":"Karlı veya soğuk havalarda buzlanmayı engelleme amaçlı yollara dökülen madde nedir?",
+		"secenekA":"Çakıl",
+		"secenekB":"Zift",
+		"secenekC":"Tuz",
+		"timer":"7",
+		"cevap":"Tuz"
+	},
+	{
+		"soru_id":"83",
+		"soru":"“Kırmızı et” tanımı hangi hayvan eti için kullanılır?",
+		"secenekA":"Sığır",
+		"secenekB":"Tavuk",
+		"secenekC":"Balık",
+		"timer":"7",
+		"cevap":"Sığır"
+	},
+	{
+		"soru_id":"84",
+		"soru":"“Darı”nın diğer adı nedir?",
+		"secenekA":"Badem",
+		"secenekB":"Mısır",
+		"secenekC":"Pirinç",
+		"timer":"7",
+		"cevap":"Mısır"
+	},
+	{
+		"soru_id":"85",
+		"soru":"Atatürk adına düzenlenen “Gazi Koşusu” hangi spor dalında düzenlenir?",
+		"secenekA":"Maraton",
+		"secenekB":"Uzun atlama",
+		"secenekC":"At yarışı",
+		"timer":"7",
+		"cevap":"At yarışı"
+	},
+	{
+		"soru_id":"86",
+		"soru":"Siyasi tarihte, kurduğu beş partinin dördü kapatıldığı için, en çok partisi kapatılan siyasetçi kimdir?",
+		"secenekA":"Necmettin Erbakan",
+		"secenekB":"Süleyman Demirel",
+		"secenekC":"Alparslan Türkeş",
+		"timer":"7",
+		"cevap":"Necmettin Erbakan"
+	},
+	{
+		"soru_id":"87",
+		"soru":"“Kuran’ın kalbi” olarak nitelendirilen sure hangisidir?",
+		"secenekA":"Fatiha",
+		"secenekB":"Yasin",
+		"secenekC":"Yusuf",
+		"timer":"7",
+		"cevap":"Yasin"
+	},
+	{
+		"soru_id":"88",
+		"soru":"Türk futbol tarihinde dört büyük takımda forma giyen futbolcumuz kimdir?",
+		"secenekA":"Hakan Şükür",
+		"secenekB":"Tanju Çolak",
+		"secenekC":"Sergen Yalçın",
+		"timer":"7",
+		"cevap":"Sergen Yalçın"
+	},
+	{
+		"soru_id":"89",
+		"soru":"Doğal yaşam koşulları göz önünde alındığında hangi iki hayvanı bir arada göremezsiniz?",
+		"secenekA":"Penguen - Kutup Ayısı",
+		"secenekB":"Su aygırı - Zürafa",
+		"secenekC":"Panda - Orangutan",
+		"timer":"15",
+		"cevap":"Penguen - Kutup Ayısı"
+	},
+	{
+		"soru_id":"90",
+		"soru":"“Karakutu” hangi taşıma aracında bulunur?",
+		"secenekA":"Otomobil",
+		"secenekB":"Uçak",
+		"secenekC":"Gemi",
+		"timer":"7",
+		"cevap":"Uçak"
+	},
+	{
+		"soru_id":"91",
+		"soru":"Aşağıdakilerinden hangisiyle fal bakılmaz?",
+		"secenekA":"Kahve",
+		"secenekB":"Bakla",
+		"secenekC":"Taş",
+		"timer":"7",
+		"cevap":"Taş"
+	},
+	{
+		"soru_id":"92",
+		"soru":"Çocuklar için soğuk su katılarak hazırlanan çok açık ve ılık, çaya ne ad verilir?",
+		"secenekA":"Tavaşan kanı",
+		"secenekB":"Sütlü çay",
+		"secenekC":"Paşa çayı",
+		"timer":"7",
+		"cevap":"Paşa çayı"
+	},
+	{
+		"soru_id":"93",
+		"soru":"Yunancadan gelen “otopsi” sözcüğünün kelime anlamı nedir?",
+		"secenekA":"Kendin gör",
+		"secenekB":"İzini sür",
+		"secenekC":"Gerçeği ara",
+		"timer":"20",
+		"cevap":"Kendin gör"
+	},
+	{
+		"soru_id":"94",
+		"soru":"Hangi ülkede boşanmak yasaktır?",
+		"secenekA":"İran",
+		"secenekB":"Filipinler",
+		"secenekC":"Endonezya",
+		"timer":"7",
+		"cevap":"Filipinler"
+	},
+	{
+		"soru_id":"95",
+		"soru":"“Büyük Ayı” ve “Küçük Ayı” takım yıldızları arasında kaç adet yıldız farkı vardır?",
+		"secenekA":"7",
+		"secenekB":"Fark yoktur",
+		"secenekC":"300",
+		"timer":"15",
+		"cevap":"Fark yoktur"
+	},
+	{
+		"soru_id":"96",
+		"soru":"3 büyük kulüpte şampiyonluk yaşayan teknik direktör kimdir?",
+		"secenekA":"Fatih Terim",
+		"secenekB":"Şenol Güneş",
+		"secenekC":"Mustafa Denizli",
+		"timer":"7",
+		"cevap":"Mustafa Denizli"
+	},
+	{
+		"soru_id":"97",
+		"soru":"Trafik ceza puanı kaç olduğunda ehliyete el konulur?",
+		"secenekA":"99",
+		"secenekB":"50",
+		"secenekC":"100",
+		"timer":"7",
+		"cevap":"100"
+	},
+	{
+		"soru_id":"98",
+		"soru":"Okey oyununda “oyuna başlayan kişi”nin elinde kaç taş olur?",
 		"secenekA":"15",
-		"secenekB":"23",
-		"secenekC":"21",
+		"secenekB":"13",
+		"secenekC":"11",
 		"timer":"7",
 		"cevap":"15"
+	},
+	{
+		"soru_id":"99",
+		"soru":"Masal kahramanı Alaaddin seyehat ederken ne kullanılır?",
+		"secenekA":"Süpürge",
+		"secenekB":"Halı",
+		"secenekC":"Kızak",
+		"timer":"7",
+		"cevap":"Halı"
+	},
+	{
+		"soru_id":"100",
+		"soru":"Karadeniz yaylalarında horon denince akla gelen enstrüman hangisidir?",
+		"secenekA":"Kemençe",
+		"secenekB":"Bağlama",
+		"secenekC":"Zurna",
+		"timer":"7",
+		"cevap":"Kemençe"
 	}
 ]}

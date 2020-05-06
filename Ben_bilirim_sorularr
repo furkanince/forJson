@@ -900,5 +900,667 @@
 		"secenekC":"Zurna",
 		"timer":"7",
 		"cevap":"Kemençe"
+	},
+	{
+		"soru_id":"101",
+		"soru":"Bir veya daha çok milyonu olan kimseye ne denir?",
+		"secenekA":"Cimri",
+		"secenekB":"Milyoner",
+		"secenekC":"Cömert",
+		"timer":"10",
+		"cevap":"Milyoner"
+	},
+	{
+		"soru_id":"102",
+		"soru":"“Çarşı her şeye karşı” sloganı hangi takımın taraftarına aittir?",
+		"secenekA":"Fenerbahçe",
+		"secenekB":"Galatasaray",
+		"secenekC":"Beşiktaş",
+		"timer":"10",
+		"cevap":"Beşiktaş"
+	},
+	{
+		"soru_id":"103",
+		"soru":"Şekli insan beynini andıran yemiş hangisidir?",
+		"secenekA":"Ceviz",
+		"secenekB":"Kestane",
+		"secenekC":"Badem",
+		"timer":"10",
+		"cevap":"Ceviz"
+	},
+	{
+		"soru_id":"104",
+		"soru":"Sloganı “kutsal bilgi kaynağı” olan ünlü internet sözlüğünün adı nedir?",
+		"secenekA":"Bal sözlük",
+		"secenekB":"Ekşi sözlük",
+		"secenekC":"Facebook",
+		"timer":"10",
+		"cevap":"Ekşi sözlük"
+	},
+	{
+		"soru_id":"105",
+		"soru":"Miladi takvime göre 1 Ocak 1801 ile 13 Aralık 1900 tarihleri arasındaki yüzyıl hangisidir?",
+		"secenekA":"20. yüzyıl",
+		"secenekB":"18. yüzyıl",
+		"secenekC":"19. yüzyıl",
+		"timer":"10",
+		"cevap":"19. yüzyıl"
+	},
+	{
+		"soru_id":"106",
+		"soru":"Janis Joplin, Jim Morrison, Kurt Cobain ve Amy Winehouse gibi ünlü sanatçıların öldükleri yaşı belirten kulübün adı nedir?",
+		"secenekA":"27'ler kulübü",
+		"secenekB":"80'liker kulübü",
+		"secenekC":"90'lılar kulübü",
+		"timer":"10",
+		"cevap":"27'ler kulübü"
+	},
+	{
+		"soru_id":"107",
+		"soru":"Bir el yazısının analizi sonucu, yazan kişinin hangi özelliği tespit edilemez?",
+		"secenekA":"Ruhsal durumu",
+		"secenekB":"Cinsiyeti",
+		"secenekC":"Kimliği",
+		"timer":"10",
+		"cevap":"Cinsiyeti"
+	},
+	{
+		"soru_id":"108",
+		"soru":"Günümüz modern yolcu uçakları ne tür yakıtla çalışır?",
+		"secenekA":"Motorin",
+		"secenekB":"Benzin",
+		"secenekC":"Gaz yağı",
+		"timer":"10",
+		"cevap":"Gaz yağı"
+	},
+	{
+		"soru_id":"109",
+		"soru":"Esnafların sabah yaptıkları ilk satışa ne denir?",
+		"secenekA":"Siftah",
+		"secenekB":"Veresiye",
+		"secenekC":"Bereket",
+		"timer":"10",
+		"cevap":"Siftah"
+	},
+	{
+		"soru_id":"110",
+		"soru":"Mahkemelerde hakimin kararı açıklamadan önce söylediği söz hangisidir?",
+		"secenekA":"Kanun namına",
+		"secenekB":"Gereği düşünüldü",
+		"secenekC":"İnsanlık adına",
+		"timer":"10",
+		"cevap":"Gereği düşünüldü"
+	},
+	{
+		"soru_id":"111",
+		"soru":"18 sene devlet memurluğu yaptıktan sonra sahneye çıkan ünlü showman kimdir?",
+		"secenekA":"Beyazıt Öztürk",
+		"secenekB":"Ata Demirer",
+		"secenekC":"Seyfi Dursunoğlu",
+		"timer":"10",
+		"cevap":"Seyfi Dursunoğlu"
+	},
+	{
+		"soru_id":"112",
+		"soru":"Brezilya futbol takımının lakabı nedir?",
+		"secenekA":"Sambacılar",
+		"secenekB":"Tangocular",
+		"secenekC":"Panzerler",
+		"timer":"10",
+		"cevap":"Sambacılar"
+	},
+	{
+		"soru_id":"113",
+		"soru":"Sadece iki ilçeye sahip olan il hangisidir?",
+		"secenekA":"Şırnak",
+		"secenekB":"Bayburt",
+		"secenekC":"Tokat",
+		"timer":"10",
+		"cevap":"Bayburt"
+	},
+	{
+		"soru_id":"114",
+		"soru":"Hangisi Mısır’da kullanılan para birimidir?",
+		"secenekA":"Mısır dinarı",
+		"secenekB":"Mısır riyali",
+		"secenekC":"Mısır poundu",
+		"timer":"10",
+		"cevap":"Mısır poundu"
+	},
+	{
+		"soru_id":"115",
+		"soru":"Platon’un, Atina’da kurduğu “Akademi” okulunun kapısında ne yazmaktadır?",
+		"secenekA":"Geometri bilmeyen giremez",
+		"secenekB":"Düşünce yönetir",
+		"secenekC":"Kuşku duyanların yeri",
+		"timer":"10",
+		"cevap":"Geometri bilmeyen giremez"
+	},
+	{
+		"soru_id":"116",
+		"soru":"Günde ortalama 18 saat uyuyan, geri kalan zamanda da ağaç yaprakları yiyen ve su içen, genel olarak hiç hareket etmeyen hayvan hangisidir?",
+		"secenekA":"Ağaçkakan",
+		"secenekB":"Tembel hayvan",
+		"secenekC":"Iguana",
+		"timer":"15",
+		"cevap":"Tembel hayvan"
+	},
+	{
+		"soru_id":"117",
+		"soru":"“Yüzyıllık Yalnızlık”, “Kırmızı Pazartesi”, “Kolera Günlerinde Aşk” isimli romanların yazarı kimdir?",
+		"secenekA":"Mark Twain",
+		"secenekB":"Franz Kafka",
+		"secenekC":"Gabriel Garcia Marquez",
+		"timer":"10",
+		"cevap":"Gabriel Garcia Marquez"
+	},
+	{
+		"soru_id":"118",
+		"soru":"Trabzonspor ile aynı renkleri taşıyan Avrupa futbol takımı hangisidir?",
+		"secenekA":"Barcelona",
+		"secenekB":"Manchester United",
+		"secenekC":"Milan",
+		"timer":"10",
+		"cevap":"Barcelona"
+	},
+	{
+		"soru_id":"119",
+		"soru":"Emlak alım-satımlarında, emlakçının komisyon oranı yüzde kaçtır?",
+		"secenekA":"5",
+		"secenekB":"3",
+		"secenekC":"10",
+		"timer":"10",
+		"cevap":"3"
+	},
+	{
+		"soru_id":"120",
+		"soru":"Üç boyutlu film seyretmek için ne kullanmak gerekir?",
+		"secenekA":"Maske",
+		"secenekB":"Gözlük",
+		"secenekC":"Dürbün",
+		"timer":"10",
+		"cevap":"Gözlük"
+	},
+	{
+		"soru_id":"121",
+		"soru":"Bir sezondaki tüm maçları seyredebilmek için alınan kart ya da bilete ne ad verilir?",
+		"secenekA":"Jeton",
+		"secenekB":"Paso",
+		"secenekC":"Kombine",
+		"timer":"10",
+		"cevap":"Kombine"
+	},
+	{
+		"soru_id":"122",
+		"soru":"Eskiden pazarlarlarda öteberi taşımak için kullanılan ağ şeklindeki torbaya ne ad verilir?",
+		"secenekA":"Heybe",
+		"secenekB":"File",
+		"secenekC":"Kese kağıdı",
+		"timer":"10",
+		"cevap":"File"
+	},
+	{
+		"soru_id":"123",
+		"soru":"Kuyruğunu açtığında eşsiz bir renk şölenine dönüşen kuş hangisidir?",
+		"secenekA":"Tavus kuşu",
+		"secenekB":"Martı",
+		"secenekC":"Baykuş",
+		"timer":"10",
+		"cevap":"Tavus kuşu"
+	},
+	{
+		"soru_id":"124",
+		"soru":"Tom’un peşini bırakmayan sevimli çizgi film kahramanı kimdir?",
+		"secenekA":"Tweety",
+		"secenekB":"Şirine",
+		"secenekC":"Jerry",
+		"timer":"10",
+		"cevap":"Jerry"
+	},
+	{
+		"soru_id":"125",
+		"soru":"Saçların uzun süre dalgalı veya kıvırcık kalması için yapılan uygulamaya ne denir?",
+		"secenekA":"Perma",
+		"secenekB":"Fön",
+		"secenekC":"Röfle",
+		"timer":"10",
+		"cevap":"Perma"
+	},
+	{
+		"soru_id":"126",
+		"soru":"1 TL kaç kuruştur?",
+		"secenekA":"100",
+		"secenekB":"1.000",
+		"secenekC":"10",
+		"timer":"7",
+		"cevap":"100"
+	},
+	{
+		"soru_id":"127",
+		"soru":"Özellikle üst düzey güvenlik nedeniyle kullanılan sinyal engelleyici elektronik cihazın adı nedir?",
+		"secenekA":"Decoder",
+		"secenekB":"Jammer",
+		"secenekC":"Scart",
+		"timer":"7",
+		"cevap":"Jammer"
+	},
+	{
+		"soru_id":"128",
+		"soru":"Bir futbol maçında orta hakemin sol elini tamamen havaya kaldırması ne anlama gelir?",
+		"secenekA":"Penaltı",
+		"secenekB":"Oyuncu değişikliği",
+		"secenekC":"Endirekt serbest vuruş",
+		"timer":"7",
+		"cevap":"Endirekt serbest vuruş"
+	},
+	{
+		"soru_id":"129",
+		"soru":"Rafine zeytinyağı ile naturel zeytinyağının karıştırılmasıyla elde edilen zeytinyağı hangisidir?",
+		"secenekA":"Riviera tipi",
+		"secenekB":"Sızma",
+		"secenekC":"Soya",
+		"timer":"7",
+		"cevap":"Riviera tipi"
+	},
+	{
+		"soru_id":"130",
+		"soru":"Parti kapatma davaları hangi mahkeme tarafından görülür?",
+		"secenekA":"Danıştay",
+		"secenekB":"Anayasa Mahkemesi",
+		"secenekC":"Yargıtay",
+		"timer":"7",
+		"cevap":"Anayasa Mahkemesi"
+	},
+	{
+		"soru_id":"131",
+		"soru":"Bereket getirildiğine inanılarak iş yerlerine asılan “bereket duası”nın diğer adı nedir?",
+		"secenekA":"Hayır duası",
+		"secenekB":"Yağmur duası",
+		"secenekC":"Karınca duası",
+		"timer":"7",
+		"cevap":"Karınca duası"
+	},
+	{
+		"soru_id":"132",
+		"soru":"Geçmiş yıllarda “Minik Kuş ve Kurabiye Canavarı”nın yer aldığı çocuk programına adını veren sokak hangisidir?",
+		"secenekA":"Susam Sokağı",
+		"secenekB":"Neşeli Sokak",
+		"secenekC":"Oyun Sokağı",
+		"timer":"7",
+		"cevap":"Susam Sokağı"
+	},
+	{
+		"soru_id":"133",
+		"soru":"Savaşlarda teslim olan tarafın gösterdiği bayrak ne renktir?",
+		"secenekA":"Siyah",
+		"secenekB":"Beyaz",
+		"secenekC":"Kırmızı",
+		"timer":"7",
+		"cevap":"Beyaz"
+	},
+	{
+		"soru_id":"134",
+		"soru":"Para alan bir kimsenin söylediği iyi dilek sözü nedir?",
+		"secenekA":"Allah bağışlasın",
+		"secenekB":"Allah kavuştursun",
+		"secenekC":"Allah bereket versin",
+		"timer":"7",
+		"cevap":"Allah bereket versin"
+	},
+	{
+		"soru_id":"135",
+		"soru":"İnce, uzun ve narin boyunlu kişiler hangi hayvana benzetilir?",
+		"secenekA":"Kuğu",
+		"secenekB":"Papağan",
+		"secenekC":"Zürafa",
+		"timer":"7",
+		"cevap":"Kuğu"
+	},
+	{
+		"soru_id":"136",
+		"soru":"Askerde erlere söyletilen meşhur türkü hangisidir?",
+		"secenekA":"Çökertme",
+		"secenekB":"Yaylalar Yaylalar",
+		"secenekC":"Atabarı",
+		"timer":"7",
+		"cevap":"Yaylalar Yaylalar"
+	},
+	{
+		"soru_id":"137",
+		"soru":"Trafik kurallarına göre bir otomobilde en az kaç lastik bulunmalıdır?",
+		"secenekA":"4",
+		"secenekB":"6",
+		"secenekC":"5",
+		"timer":"7",
+		"cevap":"5"
+	},
+	{
+		"soru_id":"138",
+		"soru":"Akşam ezanı günün kaçıncı namaz vaktini bildirir?",
+		"secenekA":"4",
+		"secenekB":"3",
+		"secenekC":"5",
+		"timer":"7",
+		"cevap":"4"
+	},
+	{
+		"soru_id":"140",
+		"soru":"Salatalığın çiçeği ne renktir?",
+		"secenekA":"Mor",
+		"secenekB":"Sarı",
+		"secenekC":"Beyaz",
+		"timer":"7",
+		"cevap":"Sarı"
+	},
+	
+	{
+		"soru_id":"141",
+		"soru":"Altı sıfır atılmadan önceki “bir milyon yedi yüz elli bin lira” şu anda kaç liradır?",
+		"secenekA":"Bir lira yedi yüz elli kuruş",
+		"secenekB":"Bin yedi yüz elli lira",
+		"secenekC":"Yüz yetmiş beş kuruş",
+		"timer":"15",
+		"cevap":"Yüz yetmiş beş kuruş"
+	},
+	
+	{
+		"soru_id":"142",
+		"soru":"Balık lokantalarında, balıkla servis edilen yeşillik hangisidir?",
+		"secenekA":"Roka",
+		"secenekB":"Deniz börülcesi",
+		"secenekC":"Semizotu",
+		"timer":"7",
+		"cevap":"Roka"
+	},
+	
+	{
+		"soru_id":"143",
+		"soru":"Hangisi boyunda kullanılan aksesuarlar arasında yer almaz?",
+		"secenekA":"Kolye",
+		"secenekB":"Broş",
+		"secenekC":"Papyon",
+		"timer":"7",
+		"cevap":"Broş"
+	},
+	
+	{
+		"soru_id":"144",
+		"soru":"Futbolda “12. adam” terimi kim için söylenir?",
+		"secenekA":"Taraftar",
+		"secenekB":"Antrenör",
+		"secenekC":"Hakem",
+		"timer":"7",
+		"cevap":"Taraftar"
+	},
+	
+	{
+		"soru_id":"145",
+		"soru":"Gemicilik terimi olarak “kıble” ne anlama gelir?",
+		"secenekA":"Batı",
+		"secenekB":"Kuzey",
+		"secenekC":"Güzey",
+		"timer":"7",
+		"cevap":"Güzey"
+	},
+	
+	{
+		"soru_id":"146",
+		"soru":"Polis araçlarının plakasında hangi harf kullanılır?",
+		"secenekA":"T",
+		"secenekB":"A",
+		"secenekC":"B",
+		"timer":"7",
+		"cevap":"A"
+	},
+	
+	{
+		"soru_id":"147",
+		"soru":"Boşanan bir kişinin nüfus cüzdanında “medeni hali” bölümüne ne yazılır?",
+		"secenekA":"Dul",
+		"secenekB":"Boşanmış",
+		"secenekC":"Bekar",
+		"timer":"7",
+		"cevap":"Bekar"
+	},
+	
+	{
+		"soru_id":"148",
+		"soru":"Hangisi gerçek bir hayvandır?",
+		"secenekA":"Kitap kurdu",
+		"secenekB":"Deniz kurdu",
+		"secenekC":"Derya kuzusu",
+		"timer":"7",
+		"cevap":"Kitap kurdu"
+	},
+	
+	{
+		"soru_id":"149",
+		"soru":"Ülkemizde, bir alışverişte bozuk parayla ödemenin üst sınırı, üzerinde yazan değerin kaç katıdır?",
+		"secenekA":"50",
+		"secenekB":"10",
+		"secenekC":"100",
+		"timer":"20",
+		"cevap":"50"
+	},
+	
+	{
+		"soru_id":"150",
+		"soru":"İlk defa bin yıl önce kullanılan “doktor” kelimesinin Latince sözcük anlamı nedir?",
+		"secenekA":"Öğretmen",
+		"secenekB":"Filozof",
+		"secenekC":"Büyücü",
+		"timer":"10",
+		"cevap":"Öğretmen"
+	},
+	
+	{
+		"soru_id":"151",
+		"soru":"“Yiğidim aslanım burda yatıyor” dizesi hangi şaire aittir?",
+		"secenekA":"Nazım Hikmet",
+		"secenekB":"Zülfü Livaneli",
+		"secenekC":"Bedri Rahmi Eyüboğlu",
+		"timer":"7",
+		"cevap":"Bedri Rahmi Eyüboğlu"
+	},
+	
+	{
+		"soru_id":"152",
+		"soru":"“Orman Yangını” ihbar hattının telefon numarası kaçtır?",
+		"secenekA":"188",
+		"secenekB":"177",
+		"secenekC":"101",
+		"timer":"7",
+		"cevap":"177"
+	},
+	
+	{
+		"soru_id":"153",
+		"soru":"“Al şu takatukaları takatukacıya götür” ile başlayan tekerlemedeki “takatuka” ne anlama gelir?",
+		"secenekA":"Tahta havan",
+		"secenekB":"Hamam tası",
+		"secenekC":"Bıçak",
+		"timer":"7",
+		"cevap":"Tahta havan"
+	},
+	
+	{
+		"soru_id":"154",
+		"soru":"500 yıldır, özel durumlar dışında, kesintisiz olarak Kuran’ın okunduğu yer neresidir?",
+		"secenekA":"Hırka-i Saadet Dairesi",
+		"secenekB":"Mevlana Türbesi",
+		"secenekC":"Mescid-i Aksa",
+		"timer":"7",
+		"cevap":"Hırka-i Saadet Dairesi"
+	},
+	
+	{
+		"soru_id":"155",
+		"soru":"Alkollü araç kullanan bir kişinin ehliyetine ilk seferde kaç ay süreyle el konulur?",
+		"secenekA":"6",
+		"secenekB":"3",
+		"secenekC":"12",
+		"timer":"7",
+		"cevap":"6"
+	},
+	
+	{
+		"soru_id":"156",
+		"soru":"Resmi bir futbol müsabakasında, bir takım, en fazla kaç oyuncu değiştirebilir?",
+		"secenekA":"7",
+		"secenekB":"5",
+		"secenekC":"3",
+		"timer":"7",
+		"cevap":"3"
+	},
+	
+	{
+		"soru_id":"157",
+		"soru":"Hangi yemekte yumurta kullanılmaz?",
+		"secenekA":"Musakka",
+		"secenekB":"Çılbır",
+		"secenekC":"Omlet",
+		"timer":"7",
+		"cevap":"Musakka"
+	},
+	
+	{
+		"soru_id":"158",
+		"soru":"Türk filmlerinde, İstanbul’a gelenleri ilk olarak nerede görürüz?",
+		"secenekA":"Taksim Meydanı",
+		"secenekB":"Haydarpaşa Tren Garı",
+		"secenekC":"Sultanahmet Meydanı",
+		"timer":"7",
+		"cevap":"Haydarpaşa Tren Garı"
+	},
+	
+	{
+		"soru_id":"159",
+		"soru":"Bir spor karşılaşmasında, sonuca yön vermek için çıkar karşılığı yapılan gizli anlaşmaya ne ad verilir?",
+		"secenekA":"Akit",
+		"secenekB":"Protokol",
+		"secenekC":"Şike",
+		"timer":"7",
+		"cevap":"Şike"
+	},
+	
+	{
+		"soru_id":"160",
+		"soru":"Sevdiklerimizi yolculuğa uğurlarken arkalarından ne dökeriz?",
+		"secenekA":"Su",
+		"secenekB":"Kolonya",
+		"secenekC":"Gül yaprağı",
+		"timer":"7",
+		"cevap":"Su"
+	},
+	
+	{
+		"soru_id":"161",
+		"soru":"Kaçarken ayakkabısını düşüren masal kahramanı kimdir?",
+		"secenekA":"Pollyanna",
+		"secenekB":"Külkedisi",
+		"secenekC":"Kırmızı Başlıklı Kız",
+		"timer":"7",
+		"cevap":"Külkedisi"
+	},
+	
+	{
+		"soru_id":"162",
+		"soru":"Bilardo oyununda kullanılan tebeşir genellikle ne renktir?",
+		"secenekA":"Mavi",
+		"secenekB":"Kahverengi",
+		"secenekC":"Beyaz",
+		"timer":"7",
+		"cevap":"Mavi"
+	},
+	
+	{
+		"soru_id":"163",
+		"soru":"Sağlıklı bir insanın vücut ısısı ortalama kaç derecedir?",
+		"secenekA":"34,5",
+		"secenekB":"36,5",
+		"secenekC":"39,5",
+		"timer":"7",
+		"cevap":"36,5"
+	},
+	
+	{
+		"soru_id":"164",
+		"soru":"Emlak vergisi hangi kuruma ödenir?",
+		"secenekA":"Maliye Bakanlığı",
+		"secenekB":"Kaymakamlık",
+		"secenekC":"Belediye",
+		"timer":"7",
+		"cevap":"Belediye"
+	},
+	
+	{
+		"soru_id":"165",
+		"soru":"Fındık hangi ayda toplanır?",
+		"secenekA":"Ağustos",
+		"secenekB":"Haziran",
+		"secenekC":"Ekim",
+		"timer":"7",
+		"cevap":"Ağustos"
+	},
+	
+	{
+		"soru_id":"166",
+		"soru":"Ayakkabı ölçüsünde 37 ile 38 numara arasındaki uzunluk farkı yaklaşık ne kadardır?",
+		"secenekA":"1 cm",
+		"secenekB":"7 mm",
+		"secenekC":"1,5 cm",
+		"timer":"7",
+		"cevap":"7 mm"
+	},
+	
+	{
+		"soru_id":"167",
+		"soru":"“Çalışmak insanı özgürleştirir” sözü Almanya’daki hangi yapının girişinde yer almasıyla ün kazanmıştır?",
+		"secenekA":"Berlin Parlamento Binası",
+		"secenekB":"İşçi Partisi Binası",
+		"secenekC":"Nazi Toplama Kampı",
+		"timer":"15",
+		"cevap":"Nazi Toplama Kampı"
+	},
+	
+	{
+		"soru_id":"168",
+		"soru":"“Yarım pansiyon” bir otelde konaklandığında ücrete hangi öğünler dahildir?",
+		"secenekA":"Sabah - Akşam yemeği",
+		"secenekB":"Sabah kahvaltısı",
+		"secenekC":"Akşam yemeği",
+		"timer":"10",
+		"cevap":"Sabah - Akşam yemeği"
+	},
+	
+	{
+		"soru_id":"169",
+		"soru":"Nikah memuru, nikah kıyma yetkisini kimden alır?",
+		"secenekA":"Kaymakam",
+		"secenekB":"Belediye Başkanı",
+		"secenekC":"Vali",
+		"timer":"7",
+		"cevap":"Belediye Başkanı"
+	},
+	
+	{
+		"soru_id":"170",
+		"soru":"Doğu edebiyatında çileli aşık bülbülün sevgilisi hangi çiçektir?",
+		"secenekA":"Lale",
+		"secenekB":"Menekşe",
+		"secenekC":"Gül",
+		"timer":"7",
+		"cevap":"Gül"
+	},
+	
+	{
+		"soru_id":"171",
+		"soru":"Banyolardaki musluklarda sıcak ve soğuk suyu gösteren renkler hangileridir?",
+		"secenekA":"Kırmızı - Mavi",
+		"secenekB":"Kırmızı - Beyaz",
+		"secenekC":"Kırmızı - Yeşil",
+		"timer":"7",
+		"cevap":"Kırmızı - Mavi"
 	}
+	
 ]}

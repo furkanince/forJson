@@ -1552,7 +1552,6 @@
 		"timer":"7",
 		"cevap":"Gül"
 	},
-	
 	{
 		"soru_id":"171",
 		"soru":"Banyolardaki musluklarda sıcak ve soğuk suyu gösteren renkler hangileridir?",
@@ -1561,6 +1560,284 @@
 		"secenekC":"Kırmızı - Yeşil",
 		"timer":"7",
 		"cevap":"Kırmızı - Mavi"
+	},
+	{
+		"soru_id":"172",
+		"soru":"Tedavülde bulunan Türk Lirası banknotlarının yapımında, yaklaşık %90 hangi hammadde kullanılır?",
+		"secenekA":"Pamuk",
+		"secenekB":"Polyester",
+		"secenekC":"Hasır otu",
+		"timer":"7",
+		"cevap":"Pamuk"
+	},
+	{
+		"soru_id":"173",
+		"soru":"Kız istenirken söylenen, “Allah’ın emri, Peygamber’in kavliyle” diye başlayan cümledeki “kavil” kelimesinin anlamı nedir?",
+		"secenekA":"İzin",
+		"secenekB":"Söz",
+		"secenekC":"Şahit",
+		"timer":"7",
+		"cevap":"Söz"
+	},
+	{
+		"soru_id":"174",
+		"soru":"Evlerde bulunan kapıların standart yüksekliği kaç metredir?",
+		"secenekA":"1,80",
+		"secenekB":"2,50",
+		"secenekC":"2,10",
+		"timer":"7",
+		"cevap":"2,10"
+	},
+	{
+		"soru_id":"174",
+		"soru":"Hangi iki takım Avrupa Futbol Şampiyonası'nda karşı karşıya gelemez?",
+		"secenekA":"İngiltere - İspanya",
+		"secenekB":"Türkiye - Brezilya",
+		"secenekC":"Belçika - Danimarka",
+		"timer":"7",
+		"cevap":"Türkiye - Brezilya"
+	},
+	{
+		"soru_id":"175",
+		"soru":"Alışveriş esnasında, tezgahta bulunan bir balığın taze olup olmadığını neye bakarak anlarız?",
+		"secenekA":"Kılçığına",
+		"secenekB":"Kuyruğuna",
+		"secenekC":"Gözüne",
+		"timer":"7",
+		"cevap":"Gözüne"
+	},
+	{
+		"soru_id":"176",
+		"soru":"Kalkış vitesi olan ve zorunlu olmadıkça seyir halinde kullanılmayan vitesi hangisidir?",
+		"secenekA":"1. vites",
+		"secenekB":"5. vites",
+		"secenekC":"3. vites",
+		"timer":"7",
+		"cevap":"1. vites"
+	},
+	{
+		"soru_id":"177",
+		"soru":"Demokrasilerde, iktidarın dışında olan parti veya partileri tanımlayan siyasi terim hangisidir?",
+		"secenekA":"Koalisyon",
+		"secenekB":"Muhalefet",
+		"secenekC":"Bağımsızlar",
+		"timer":"7",
+		"cevap":"Muhalefet"
+	},
+	{
+		"soru_id":"178",
+		"soru":"Hangisi kesin olarak bekar olamaz?",
+		"secenekA":"Baldız",
+		"secenekB":"Kayınbirader",
+		"secenekC":"Enişte",
+		"timer":"7",
+		"cevap":"Enişte"
+	},
+	{
+		"soru_id":"179",
+		"soru":"Dizilerin o yayın dönemindeki son bölümlerine ne ad verilir?",
+		"secenekA":"Sezon finali",
+		"secenekB":"Bölüm sonu",
+		"secenekC":"Yayın sonu",
+		"timer":"7",
+		"cevap":"Sezon finali"
+	},
+	{
+		"soru_id":"180",
+		"soru":"Denizin dalgasız ve durgun olma hali nasıl tanımlanır?",
+		"secenekA":"Çivi gibi",
+		"secenekB":"Çarşaf gibi",
+		"secenekC":"Cam gibi",
+		"timer":"7",
+		"cevap":"Çarşaf gibi"
+	},
+	{
+		"soru_id":"181",
+		"soru":"Zeytinyağlılar ve bir çok ot türünün kullanıldığı mutfak hangi bölgeye aittir?",
+		"secenekA":"Karadeniz",
+		"secenekB":"Marmara",
+		"secenekC":"Ege",
+		"timer":"7",
+		"cevap":"Ege"
+	},
+	{
+		"soru_id":"181",
+		"soru":"Bir futbol maçında hakem maçı bitirirken düdüğü kaç kere çalar?",
+		"secenekA":"3",
+		"secenekB":"1",
+		"secenekC":"4",
+		"timer":"7",
+		"cevap":"3"
+	},
+	{
+		"soru_id":"182",
+		"soru":"Evlerde kullanılan bir damacana su genellike kaç litredir?",
+		"secenekA":"25",
+		"secenekB":"19",
+		"secenekC":"11",
+		"timer":"7",
+		"cevap":"19"
+	},
+	{
+		"soru_id":"183",
+		"soru":"Türkiye’de yenidoğan bir bebeğin, en fazla kaç gün içerisinde nüfus müdürlüğüne bildirilmesi zorunludur?",
+		"secenekA":"15",
+		"secenekB":"60",
+		"secenekC":"30",
+		"timer":"7",
+		"cevap":"30"
+	},
+	{
+		"soru_id":"184",
+		"soru":"Hangi terim fiyatların düştüğü piyasaları ifade eder?",
+		"secenekA":"Ayı Piyasası",
+		"secenekB":"Sinek Piyasası",
+		"secenekC":"Yılan Piyasası",
+		"timer":"7",
+		"cevap":"Ayı Piyasası"
+	},
+	{
+		"soru_id":"185",
+		"soru":"Gülen ve ağlayan iki maske ile temsil edilen sanat dalı hangisidir?",
+		"secenekA":"Tiyatro",
+		"secenekB":"Resim",
+		"secenekC":"Bale",
+		"timer":"7",
+		"cevap":"Tiyatro"
+	},
+	{
+		"soru_id":"186",
+		"soru":"Bir zarın, birbirine zıt iki yönündeki sayıların toplamı her zaman kaç olur?",
+		"secenekA":"12",
+		"secenekB":"10",
+		"secenekC":"7",
+		"timer":"7",
+		"cevap":"7"
+	},
+	{
+		"soru_id":"187",
+		"soru":"Çocukların kostüm giyerek evleri dolaştığı, Hristiyanlara özgü “Cadılar Bayramı”nın sembolü hangi sebzedir?",
+		"secenekA":"Balkabağı",
+		"secenekB":"Patates",
+		"secenekC":"Domates",
+		"timer":"7",
+		"cevap":"Balkabağı"
+	},
+	{
+		"soru_id":"188",
+		"soru":"“Kafkafkaf sinsinsin kafsin kafsin kaf” hangi futbol takımının tezahüratıdır?",
+		"secenekA":"Karşıyaka Spor",
+		"secenekB":"Karşıyaka Spor",
+		"secenekC":"Eskişehirspor",
+		"timer":"7",
+		"cevap":"Karşıyaka Spor"
+	},
+	{
+		"soru_id":"189",
+		"soru":"Türkiye’de, tüm askeri darbelerin yapıldığı ve muhtıraların verildiği gün hangisidir?",
+		"secenekA":"Pazar",
+		"secenekB":"Cumartesi",
+		"secenekC":"Cuma",
+		"timer":"20",
+		"cevap":"Cuma"
+	},
+	{
+		"soru_id":"190",
+		"soru":"“Ne hasta bekler sabahı, ne taze ölüyü mezar, ne de şeytan bir günahı, seni beklediğim kadar” dizeleri kime aittir?",
+		"secenekA":"Necip Fazıl Kısakürek",
+		"secenekB":"İsmet Özel",
+		"secenekC":"Cahit Sıtkı Tarancı",
+		"timer":"15",
+		"cevap":"Necip Fazıl Kısakürek"
+	},
+	{
+		"soru_id":"191",
+		"soru":"Düğünden bir gece önce genellikle gelin tarafının evinde kadınların kendi aralarında yaptıkları eğlenceye ne ad verilir?",
+		"secenekA":"Nişan",
+		"secenekB":"Kına gecesi",
+		"secenekC":"Kız istemek",
+		"timer":"7",
+		"cevap":"Kına gecesi"
+	},
+	{
+		"soru_id":"192",
+		"soru":"Usame Bin Ladin’in öldürülme operasyonuna ABD tarafından, kod adı olarak verilen “Geronimo” nedir?",
+		"secenekA":"Amerikan baykuşu",
+		"secenekB":"Derebeyi",
+		"secenekC":"Kızılderili lider",
+		"timer":"15",
+		"cevap":"Kızılderili lider"
+	},
+	{
+		"soru_id":"193",
+		"soru":"Halk arasında hangi rüzgar, beraberinde yağmur getirdiği için, “gözü yaşlı” olarak adlandırılır?",
+		"secenekA":"Lodos",
+		"secenekB":"Poyraz",
+		"secenekC":"Meltem",
+		"timer":"7",
+		"cevap":"Lodos"
+	},
+	{
+		"soru_id":"194",
+		"soru":"“Ben bir tür yönetmeniyim. Sindirella’yı film yapsam, insanlar at arabasında ceset ararlar” cümlesi hangi yönetmene aittir?",
+		"secenekA":"Orson Welles",
+		"secenekB":"Alfred Hitchcock",
+		"secenekC":"Peter Jackson",
+		"timer":"7",
+		"cevap":"Alfred Hitchcock"
+	},
+	{
+		"soru_id":"195",
+		"soru":"Yeşil zeytinle içilen içki hangisidir?",
+		"secenekA":"Konyak",
+		"secenekB":"Viski",
+		"secenekC":"Martini",
+		"timer":"7",
+		"cevap":"Martini"
+	},
+	{
+		"soru_id":"196",
+		"soru":"Türkiye’ye yurtdışından gelenler “dövizle askerlik”lerini hangi ilde yaparlar?",
+		"secenekA":"Burdur",
+		"secenekB":"Ankara",
+		"secenekC":"Hakkari",
+		"timer":"7",
+		"cevap":"Burdur"
+	},
+	{
+		"soru_id":"197",
+		"soru":"1960'lı yıllarda, Türk işçilerinin çalışmak için gittikleri Almanya’ya verdikleri isim neydi?",
+		"secenekA":"Ekmek kapısı",
+		"secenekB":"Acı vatan",
+		"secenekC":"Yeni dünya",
+		"timer":"7",
+		"cevap":"Acı vatan"
+	},
+	{
+		"soru_id":"198",
+		"soru":"Hasta ziyaretlerine giderken hastaya genel olarak ne alınır?",
+		"secenekA":"Nazar boncuğu",
+		"secenekB":"Çeyrek altın",
+		"secenekC":"Kolonya",
+		"timer":"7",
+		"cevap":"Kolonya"
+	},
+	{
+		"soru_id":"199",
+		"soru":"Hangi özelliğe sahip iki kişi arasına girilerek dilek tutulur?",
+		"secenekA":"İkiz",
+		"secenekB":"Adaş",
+		"secenekC":"Hemşehri",
+		"timer":"7",
+		"cevap":"Adaş"
+	},
+	{
+		"soru_id":"200",
+		"soru":"Bir futbol takımının kendi sahası dışında bir başka sahada maç yapmasına ne denir?",
+		"secenekA":"Deplasman",
+		"secenekB":"Rövanş",
+		"secenekC":"Derbi",
+		"timer":"7",
+		"cevap":"Deplasman"
 	}
-	
 ]}

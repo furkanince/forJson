@@ -1839,5 +1839,756 @@
 		"secenekC":"Derbi",
 		"timer":"7",
 		"cevap":"Deplasman"
-	}
+	},
+	{
+		"soru_id":"201",
+		"soru":"Bir resmi nikahta en az kaç şahit olmalıdır?",
+		"secenekA":"2",
+		"secenekB":"3",
+		"secenekC":"4",
+		"timer":"10",
+		"cevap":"2"
+	},
+	{
+		"soru_id":"202",
+		"soru":"",
+		"secenekA":"Depl",
+		"secenekB":"Röv",
+		"secenekC":"De",
+		"timer":"10",
+		"cevap":"Deplasman"
+	},
+	{
+		"soru_id":"202",
+		"soru":"Tuz ve limonla içilen alkollü içiki hangisidir?",
+		"secenekA":"Bacardi",
+		"secenekB":"Tekila",
+		"secenekC":"Votka",
+		"timer":"10",
+		"cevap":"Tekila"
+	},
+	{
+		"soru_id":"203",
+		"soru":"“Schengen” vizesiyle hangi ülkeye girilebilir?",
+		"secenekA":"İngiltere",
+		"secenekB":"ABD",
+		"secenekC":"Fransa",
+		"timer":"10",
+		"cevap":"Fransa"
+	},
+	{
+		"soru_id":"204",
+		"soru":"“Gözaltı süresi” özel durumlar dışında en fazla kaç saattir?",
+		"secenekA":"24",
+		"secenekB":"48",
+		"secenekC":"72",
+		"timer":"10",
+		"cevap":"24"
+	},
+	{
+		"soru_id":"205",
+		"soru":"Özgürlüğüne düşkün “Jonathan Livingston”, Richard Bach’ın hangi kitabında, kitaba da adını veren kuştur?",
+		"secenekA":"Kartal",
+		"secenekB":"Martı",
+		"secenekC":"Guguk kuşu",
+		"timer":"10",
+		"cevap":"Martı"
+	},
+	{
+		"soru_id":"206",
+		"soru":"“Eşek davası” hangi alanla ilgili bir terimdir?",
+		"secenekA":"Askeriye",
+		"secenekB":"Hukuk",
+		"secenekC":"Matematik",
+		"timer":"20",
+		"cevap":"Matematik"
+	},
+	{
+		"soru_id":"207",
+		"soru":"Hiroşima’ya atılan atom bombasının adı nedir?",
+		"secenekA":"Küçük çocuk",
+		"secenekB":"Kader fırtınası",
+		"secenekC":"Yaz yağmuru",
+		"timer":"20",
+		"cevap":"Küçük çocuk"
+	},
+	{
+		"soru_id":"208",
+		"soru":"Hangi sanatçı hem Oscar hem de Nobel ödülü kazanmıştır?",
+		"secenekA":"Ernest Hemingway",
+		"secenekB":"Bernard Shaw",
+		"secenekC":"Thomas Mann",
+		"timer":"20",
+		"cevap":"Bernard Shaw"
+	},
+	{
+		"soru_id":"209",
+		"soru":"Askerde, okuma yazma bilmeyen erlerin eğitimine halk arasında ne ad verilirdi?",
+		"secenekA":"Alaylı Mektebi",
+		"secenekB":"Köy Enstitüsü",
+		"secenekC":"Ali Mektebi",
+		"timer":"20",
+		"cevap":"Ali Mektebi"
+	},
+	{
+		"soru_id":"210",
+		"soru":"“Kablosuz” haberleşmeyi ifade eden sözcük hangisidir?",
+		"secenekA":"Wireless",
+		"secenekB":"Scart",
+		"secenekC":"Modem",
+		"timer":"10",
+		"cevap":"Wireless"
+	},
+	{
+		"soru_id":"211",
+		"soru":"Hangisi “Zorunlu Deprem Sigortası” ile ilgilidir?",
+		"secenekA":"KOBİ",
+		"secenekB":"DASK",
+		"secenekC":"TOKİ",
+		"timer":"15",
+		"cevap":"DASK"
+	},
+	{
+		"soru_id":"212",
+		"soru":"Çeşitli spor karşılaşmalarında kullanılan topların hangisi daha büyüktür?",
+		"secenekA":"Depl",
+		"secenekB":"Röv",
+		"secenekC":"Basketbol topu",
+		"timer":"10",
+		"cevap":"Basketbol topu"
+	},
+	{
+		"soru_id":"213",
+		"soru":"İğne ile deri üzerine uygulanan yazı veya resme ne ad verilir?",
+		"secenekA":"Dövme",
+		"secenekB":"Piercing",
+		"secenekC":"Hızma",
+		"timer":"7",
+		"cevap":"Dövme"
+	},
+	{
+		"soru_id":"214",
+		"soru":"Osmanlıcada “efkar-ı mütemadi” adı verilen hastalık hangisidir?",
+		"secenekA":"Verem",
+		"secenekB":"Depresyon",
+		"secenekC":"Cüzzam",
+		"timer":"20",
+		"cevap":"Depresyon"
+	},
+	{
+		"soru_id":"215",
+		"soru":"Yazar kasalarda günün sonunda toplu olarak alınan rapora adını veren harf hangisidir?",
+		"secenekA":"X",
+		"secenekB":"K",
+		"secenekC":"Z",
+		"timer":"10",
+		"cevap":"Z"
+	},
+	{
+		"soru_id":"216",
+		"soru":"Futbolda gol pasına ne ad verilir?",
+		"secenekA":"Asist",
+		"secenekB":"Şut",
+		"secenekC":"Degaj",
+		"timer":"10",
+		"cevap":"Asist"
+	},
+	{
+		"soru_id":"217",
+		"soru":"Hangisi bir lahana yemeğidir?",
+		"secenekA":"Mücver",
+		"secenekB":"Kapuska",
+		"secenekC":"Türlü",
+		"timer":"10",
+		"cevap":"Kapuska"
+	},
+	{
+		"soru_id":"218",
+		"soru":"Halk masallarına başlarken kullanılan tekerleme hangisidir?",
+		"secenekA":"Az gittim uz gittim",
+		"secenekB":"Onlar ermiş muradına",
+		"secenekC":"Bir varmış, bir yokmuş",
+		"timer":"10",
+		"cevap":"Bir varmış, bir yokmuş"
+	},
+	{
+		"soru_id":"219",
+		"soru":"Güzel kokusu nedeniyle et ve balık yemeklerinde kullanılan ağaç yaprağı hangisidir?",
+		"secenekA":"Çınar yaprağı",
+		"secenekB":"Zeytin Yaprağı",
+		"secenekC":"Defne yaprağı",
+		"timer":"10",
+		"cevap":"Defne yaprağı"
+	},
+	{
+		"soru_id":"220",
+		"soru":"“Casus” anlamında kullanılan hayvan hangisidir?",
+		"secenekA":"Tilki",
+		"secenekB":"Köstebek",
+		"secenekC":"Karınca",
+		"timer":"10",
+		"cevap":"Köstebek"
+	},
+	{
+		"soru_id":"230",
+		"soru":"Yerli malını simgeleyen harfler hangileridir?",
+		"secenekA":"TC",
+		"secenekB":"TM",
+		"secenekC":"TSE",
+		"timer":"15",
+		"cevap":"TM"
+	},
+	{
+		"soru_id":"231",
+		"soru":"“Söylesem tesiri yok, sussam gönül razı değil” sözü kime aittir?",
+		"secenekA":"Karacaoğlan",
+		"secenekB":"Yunus Emre",
+		"secenekC":"Fuzuli",
+		"timer":"20",
+		"cevap":"Fuzuli"
+	},
+	{
+		"soru_id":"232",
+		"soru":"İyi bir baklava kaç kat yufkadan hazırlanır?",
+		"secenekA":"40",
+		"secenekB":"10",
+		"secenekC":"30",
+		"timer":"10",
+		"cevap":"40"
+	},
+	{
+		"soru_id":"233",
+		"soru":"Sonu “şehir” kelimesiyle biten kaç ilimiz vardır?",
+		"secenekA":"1",
+		"secenekB":"3",
+		"secenekC":"6",
+		"timer":"30",
+		"cevap":"Deplasman"
+	},
+	{
+		"soru_id":"234",
+		"soru":"Küçük mezelerle hazırlanmış içki sofrasına ne ad verilir?",
+		"secenekA":"Alakart",
+		"secenekB":"Çilingir sofrası",
+		"secenekC":"Yer sofrası",
+		"timer":"10",
+		"cevap":"Deplasman"
+	},
+	{
+		"soru_id":"235",
+		"soru":"TBMM’nin 100. kuruluş yıldönümü hangi yıla denk gelmektedir?",
+		"secenekA":"2020",
+		"secenekB":"2023",
+		"secenekC":"2013",
+		"timer":"20",
+		"cevap":"2020"
+	},
+	{
+		"soru_id":"235",
+		"soru":"Kırk haramilerin hazinelerinin bulunduğu mağaranın kapısı hangi sihirli sözle açılır?",
+		"secenekA":"Gölgelerin gücü adına",
+		"secenekB":"Abrakadabra",
+		"secenekC":"Açıl susam açıl",
+		"timer":"20",
+		"cevap":"Açıl susam açıl"
+	},
+	{
+		"soru_id":"236",
+		"soru":"“Ben sende bütün aşklarımı temize çektim” dizesi hangi şaire aittir?",
+		"secenekA":"Murathan Mungan",
+		"secenekB":"Sunay Akın",
+		"secenekC":"Turgut Uyar",
+		"timer":"30",
+		"cevap":"Murathan Mungan"
+	},
+	{
+		"soru_id":"237",
+		"soru":"2006'da İtalya liginde ortaya çıkan şike sonucunda bir alt lige düşürülen ve şampiyonluğu elinden alınan takım hangisidir?",
+		"secenekA":"Milan",
+		"secenekB":"Juventus",
+		"secenekC":"Inter",
+		"timer":"20",
+		"cevap":"Juventus"
+	},
+	{
+		"soru_id":"238",
+		"soru":"Türkiye Cumhuriyeti Cumhurbaşkanları'ndan hangisi adına üniversite bulunmaz?",
+		"secenekA":"Atatürk",
+		"secenekB":"Süleyman Demirel",
+		"secenekC":"Ahmet Necdet Sezer",
+		"timer":"10",
+		"cevap":"Ahmet Necdet Sezer"
+	},{
+		"soru_id":"239",
+		"soru":"Deniz Kuvvetleri Komutanı'nın rütbesi nedir?",
+		"secenekA":"Oramiral",
+		"secenekB":"Koramiral",
+		"secenekC":"Tümamiral",
+		"timer":"20",
+		"cevap":"Oramiral"
+	},
+	{
+		"soru_id":"240",
+		"soru":"Hangi meyve toplanmaya başlandığında artık sonbahar gelmiş demektir?",
+		"secenekA":"Çilek",
+		"secenekB":"Üzüm",
+		"secenekC":"Kiraz",
+		"timer":"20",
+		"cevap":"Üzüm"
+	},
+	{
+		"soru_id":"241",
+		"soru":"İçine kuru şeyler koymak için, huni biçiminde bükülmüş kağıt kabın adı nedir?",
+		"secenekA":"Paket",
+		"secenekB":"Kese",
+		"secenekC":"Külah",
+		"timer":"10",
+		"cevap":"Külah"
+	},
+	{
+		"soru_id":"242",
+		"soru":"“Kerkenez” ne tür bir canlıdır?",
+		"secenekA":"Kuş",
+		"secenekB":"Balık",
+		"secenekC":"Böcek",
+		"timer":"20",
+		"cevap":"Kuş"
+	},
+	{
+		"soru_id":"243",
+		"soru":"2010–2011 Milli Piyango yılbaşı ikramiyesi kaç TL idi?",
+		"secenekA":"15 milyon",
+		"secenekB":"25 milyon",
+		"secenekC":"35 milyon",
+		"timer":"20",
+		"cevap":"35 milyon"
+	},
+	{
+		"soru_id":"244",
+		"soru":"Futbolda gölcü sporcunun bulunduğu mevkiye ne ad verilir?",
+		"secenekA":"Forvet",
+		"secenekB":"Stoper",
+		"secenekC":"Libero",
+		"timer":"10",
+		"cevap":"Forvet"
+	},
+	{
+		"soru_id":"245",
+		"soru":"Çilingirlerin ve hırsızların kilit açmakta kullandıkları alet hangi hayvanın adı ile anılır?",
+		"secenekA":"Arı",
+		"secenekB":"Maymun",
+		"secenekC":"Köpek",
+		"timer":"20",
+		"cevap":"Maymun"
+	},
+	{
+		"soru_id":"246",
+		"soru":"Antakya yöresine özgü, sıcak olarak servis edilen tel kadayıfa ne ad verilir?",
+		"secenekA":"Tulumba",
+		"secenekB":"Kete",
+		"secenekC":"Künefe",
+		"timer":"20",
+		"cevap":"Künefe"
+	},
+	{
+		"soru_id":"247",
+		"soru":"“Şu Çılgın Türkler” adlı romanın yazarı kimdir?",
+		"secenekA":"Turgut Özakman",
+		"secenekB":"İskender Pala",
+		"secenekC":"Murat Bardakçı",
+		"timer":"20",
+		"cevap":"Turgut Özakman"
+	},
+	{
+		"soru_id":"248",
+		"soru":"Belediyeleri denetleme yetkisi hangi bakanlığa aittir?",
+		"secenekA":"Çevre ve Şehircilik",
+		"secenekB":"İçişleri",
+		"secenekC":"Maliye",
+		"timer":"20",
+		"cevap":"İçişleri"
+	},
+	{
+		"soru_id":"249",
+		"soru":"Eczacının, ilaç kutusununu üzerine yazdığı “3x1” ifadesindeki “3” ne anlama gelir?",
+		"secenekA":"Günde 3 kez",
+		"secenekB":"3 günde 1",
+		"secenekC":"3 saatte 1",
+		"timer":"20",
+		"cevap":"Günde 3 kez"
+	},
+	{
+		"soru_id":"250",
+		"soru":"Vekaletname çıkartmak için nereye başvurulur?",
+		"secenekA":"Noter",
+		"secenekB":"Muhtar",
+		"secenekC":"Savcı",
+		"timer":"10",
+		"cevap":"Noter"
+	},
+	{
+		"soru_id":"251",
+		"soru":"“Müstakbel” ne demektir?",
+		"secenekA":"Saygın",
+		"secenekB":"Gelecek",
+		"secenekC":"Kıymetli",
+		"timer":"20",
+		"cevap":"Gelecek"
+	},
+	{
+		"soru_id":"252",
+		"soru":"Öğrenciler arasında kırık not verdiği düşünülen öğretmenlere takılan lakap hangisidir?",
+		"secenekA":"Kazıkçı",
+		"secenekB":"Notsuz",
+		"secenekC":"Sıfırcı",
+		"timer":"10",
+		"cevap":"Sıfırcı"
+	},
+	{
+		"soru_id":"253",
+		"soru":"Tedevülde olan en büyük banknotun değeri kaç Türk Lirası'dır?",
+		"secenekA":"200",
+		"secenekB":"100",
+		"secenekC":"500",
+		"timer":"10",
+		"cevap":"200"
+	},
+	{
+		"soru_id":"254",
+		"soru":"Trafik ışıklarının yukarıdan aşağıya sıralanışı nasıldır?",
+		"secenekA":"Yeşil - Kırmızı - Sarı",
+		"secenekB":"Kırmızı - Sarı - Yeşil",
+		"secenekC":"Yeşil - Sarı - Kırmızı",
+		"timer":"20",
+		"cevap":"Kırmızı - Sarı - Yeşil"
+	},
+	{
+		"soru_id":"255",
+		"soru":"16 TL’lik alışveriş yapan birinin, 20 TL verdiği kasiyerden 5 TL para üzeri alması için ne kadar bozuk para vermesi gerekir?",
+		"secenekA":"50 kuruş",
+		"secenekB":"2 lira",
+		"secenekC":"1 lira",
+		"timer":"20",
+		"cevap":"1 lira"
+	},
+	{
+		"soru_id":"256",
+		"soru":"",
+		"secenekA":"Depl",
+		"secenekB":"Röv",
+		"secenekC":"De",
+		"timer":"10",
+		"cevap":"Deplasman"
+	},
+	{
+		"soru_id":"257",
+		"soru":"“1 su bardağı” toz şeker ortalama kaç gramdır?",
+		"secenekA":"300",
+		"secenekB":"125",
+		"secenekC":"200",
+		"timer":"10",
+		"cevap":"200"
+	},
+	{
+		"soru_id":"258",
+		"soru":"“Sahil Güvenlik Komutanlığı” olağanüstü haller ve savaş hali dışında hangi kuruma bağlıdır?",
+		"secenekA":"İçişleri Bakanlığı",
+		"secenekB":"Jandarma Genel Komutanlığı",
+		"secenekC":"Deniz Kuvvetleri Komutanlığı",
+		"timer":"30",
+		"cevap":"İçişleri Bakanlığı"
+	},
+	{
+		"soru_id":"259",
+		"soru":"İsveç'ten Finlandiya’ya deniz yolu ile gitmek için hangi denizden geçilir?",
+		"secenekA":"Akdeniz",
+		"secenekB":"Baltık Denizi",
+		"secenekC":"Adriyatik Denizi",
+		"timer":"20",
+		"cevap":"Baltık Denizi"
+	},
+	{
+		"soru_id":"260",
+		"soru":"“Boğazkere”, “öküzgözü” ve “papazkarası” hangi meyvenin çeşitleridir?",
+		"secenekA":"Elma",
+		"secenekB":"Kiraz",
+		"secenekC":"Üzüm",
+		"timer":"10",
+		"cevap":"Üzüm"
+	},
+	{
+		"soru_id":"261",
+		"soru":"Üç farklı ilde de aynı adla bulunan ilçe hangisidir?",
+		"secenekA":"Ereğli",
+		"secenekB":"Perşembe",
+		"secenekC":"Armutlu",
+		"timer":"30",
+		"cevap":"Ereğli"
+	},
+	{
+		"soru_id":"262",
+		"soru":"Üzerinde belirli bir kişi ya da kurumun adı olmayan çeklere ne yazılır?",
+		"secenekA":"Şahsi",
+		"secenekB":"Hamiline",
+		"secenekC":"Keşide",
+		"timer":"10",
+		"cevap":"Hamiline"
+	},
+	{
+		"soru_id":"263",
+		"soru":"Hangi portakal cinsi aynı zamanda bir başkentin de adıdır?",
+		"secenekA":"Washington",
+		"secenekB":"Moskova",
+		"secenekC":"Viyana",
+		"timer":"20",
+		"cevap":"Washington"
+	},
+	{
+		"soru_id":"264",
+		"soru":"Fizikte, enerjinin madddeye dönüşmesini sağladığı düşünülen, “Higgs Parçacığı”nın diğer adı nedir?",
+		"secenekA":"Evren parçacığı",
+		"secenekB":"Tanrı parçacığı",
+		"secenekC":"Sır parçacığı",
+		"timer":"60",
+		"cevap":"Tanrı parçacığı"
+	},
+	{
+		"soru_id":"265",
+		"soru":"“Tutkuyla sevdiğim, yalnız ve güzel ülkeme” sözleri hangi yönetmene aittir?",
+		"secenekA":"Ferzan Özpetek",
+		"secenekB":"Fatih Akın",
+		"secenekC":"Nuri Bilge Ceylan",
+		"timer":"15",
+		"cevap":"Nuri Bilge Ceylan"
+	},
+	{
+		"soru_id":"266",
+		"soru":"Patlıcan çiçeği ne renktir?",
+		"secenekA":"Mavi",
+		"secenekB":"Yeşil",
+		"secenekC":"Mor",
+		"timer":"20",
+		"cevap":"Mor"
+	},
+	{
+		"soru_id":"267",
+		"soru":"Rusya’nın geleneksel içkisinin adı nedir?",
+		"secenekA":"Votka",
+		"secenekB":"Cin",
+		"secenekC":"Rakı",
+		"timer":"15",
+		"cevap":"Votka"
+	},
+	{
+		"soru_id":"268",
+		"soru":"Bir hedef tahtasına küçük okların atılmasıyla oynanan oyunun adı nedir?",
+		"secenekA":"Tetris",
+		"secenekB":"Dart",
+		"secenekC":"Mikado",
+		"timer":"20",
+		"cevap":"Dart"
+	},
+	{
+		"soru_id":"269",
+		"soru":"Kestane şekeri ve şeftalisiyle ünlü şehir hangisidir?",
+		"secenekA":"Kocaeli",
+		"secenekB":"Balıkesir",
+		"secenekC":"Bursa",
+		"timer":"10",
+		"cevap":"Bursa"
+	},
+	{
+		"soru_id":"270",
+		"soru":"Takvim şeklinde düzenlenen, yapılacak işlerin kaydedildiği deftere ne ad verilir?",
+		"secenekA":"Ajanda",
+		"secenekB":"Günlük",
+		"secenekC":"Anı defteri",
+		"timer":"10",
+		"cevap":"Ajanda"
+	},
+	{
+		"soru_id":"271",
+		"soru":"Hazırlık sınıfının olmadığı okullarda lise öğrenimi kaç yıldır?",
+		"secenekA":"4",
+		"secenekB":"5",
+		"secenekC":"3",
+		"timer":"7",
+		"cevap":"4"
+	},
+	{
+		"soru_id":"272",
+		"soru":"29 Ekim 2011 yılında Cumhuriyet’in kaçıncı yılını kutlandı?",
+		"secenekA":"86",
+		"secenekB":"88",
+		"secenekC":"87",
+		"timer":"60",
+		"cevap":"88"
+	},
+	{
+		"soru_id":"273",
+		"soru":"",
+		"secenekA":"Depl",
+		"secenekB":"Röv",
+		"secenekC":"De",
+		"timer":"10",
+		"cevap":"Deplasman"
+	},
+	{
+		"soru_id":"274",
+		"soru":"“Peşmelba” tatlısı hangi meyveyle yapılır?",
+		"secenekA":"Muz",
+		"secenekB":"Elma",
+		"secenekC":"Şeftali",
+		"timer":"10",
+		"cevap":"Şeftali"
+	},
+	{
+		"soru_id":"274",
+		"soru":"“Alfabe” sözcüğü adını hangi alfabenin ilk iki harfinden alır?",
+		"secenekA":"Yunan",
+		"secenekB":"Göktürk",
+		"secenekC":"Sümer",
+		"timer":"60",
+		"cevap":"Yunan"
+	},
+	{
+		"soru_id":"275",
+		"soru":"İstanbul’dan Berlin’e uçakla giden bir yolcu havaalanında hangi terminali kullanmalıdır?",
+		"secenekA":"İç hatlar - Gidiş",
+		"secenekB":"Dış hatlar - Gidiş",
+		"secenekC":"Dış hatlar - Geliş",
+		"timer":"15",
+		"cevap":"Dış hatlar - Gidiş"
+	},
+	{
+		"soru_id":"276",
+		"soru":"Bir iskambil destesinde kaç adet vale bulunur?",
+		"secenekA":"4",
+		"secenekB":"6",
+		"secenekC":"2",
+		"timer":"10",
+		"cevap":"4"
+	},
+	{
+		"soru_id":"277",
+		"soru":"Açlığın çok fazla olması durumu hangi hayvanın açlığına benzetilir?",
+		"secenekA":"Kurt",
+		"secenekB":"Karga",
+		"secenekC":"Kartal",
+		"timer":"10",
+		"cevap":"Kurt"
+	},
+	{
+		"soru_id":"278",
+		"soru":"Hangisi gerçek bir hayvandır?",
+		"secenekA":"Kulplu beygir",
+		"secenekB":"Atlı karınca",
+		"secenekC":"Uzuneşek",
+		"timer":"120",
+		"cevap":"Atlı karınca"
+	},
+	{
+		"soru_id":"279",
+		"soru":"“Ekonomi” sözcüğündeki “eko”nun kelime anlamı nedir?",
+		"secenekA":"Para",
+		"secenekB":"Yönetici",
+		"secenekC":"Ev",
+		"timer":"120",
+		"cevap":"Ev"
+	},
+	{
+		"soru_id":"280",
+		"soru":"Dünyaca ünlü “Mona Lisa” tablosunda yer alan kadının yüzünde eksik olan nedir?",
+		"secenekA":"Göz kapakları",
+		"secenekB":"Kaş",
+		"secenekC":"Saç",
+		"timer":"240",
+		"cevap":"Kaş"
+	},
+	{
+		"soru_id":"281",
+		"soru":"Harry Potter’ın gittiği Büyücülük Okulu’nun adı nedir?",
+		"secenekA":"Hogwarts",
+		"secenekB":"Zümrüdüanka",
+		"secenekC":"Azkaban",
+		"timer":"120",
+		"cevap":"Hogwarts"
+	},
+	{
+		"soru_id":"282",
+		"soru":"Tek kara sınır komşusu İspanya olan ülke hangisidir?",
+		"secenekA":"Portekiz",
+		"secenekB":"Fas",
+		"secenekC":"İsviçre",
+		"timer":"30",
+		"cevap":"Portekiz"
+	},
+	{
+		"soru_id":"283",
+		"soru":"2011 – 2012 Şampiyonlar Ligi’nde oynayan tek Türk takımı hangisidir?",
+		"secenekA":"Fenerbahçe",
+		"secenekB":"Trabzonspor",
+		"secenekC":"Galatasaray",
+		"timer":"40",
+		"cevap":"Trabzonspor"
+	},
+	{
+		"soru_id":"284",
+		"soru":"Bir cep telefonunu ararken kaç numara tuşlanır?",
+		"secenekA":"11",
+		"secenekB":"12",
+		"secenekC":"9",
+		"timer":"20",
+		"cevap":"11"
+	},
+	{
+		"soru_id":"20",
+		"soru":"",
+		"secenekA":"Depl",
+		"secenekB":"Röv",
+		"secenekC":"De",
+		"timer":"10",
+		"cevap":"Deplasman"
+	},
+	{
+		"soru_id":"20",
+		"soru":"",
+		"secenekA":"Depl",
+		"secenekB":"Röv",
+		"secenekC":"De",
+		"timer":"10",
+		"cevap":"Deplasman"
+	},
+	{
+		"soru_id":"20",
+		"soru":"",
+		"secenekA":"Depl",
+		"secenekB":"Röv",
+		"secenekC":"De",
+		"timer":"10",
+		"cevap":"Deplasman"
+	},
+	{
+		"soru_id":"20",
+		"soru":"",
+		"secenekA":"Depl",
+		"secenekB":"Röv",
+		"secenekC":"De",
+		"timer":"10",
+		"cevap":"Deplasman"
+	},
+	{
+		"soru_id":"20",
+		"soru":"",
+		"secenekA":"Depl",
+		"secenekB":"Röv",
+		"secenekC":"De",
+		"timer":"10",
+		"cevap":"Deplasman"
+	},
+	
+	
+	
+	
+	
 ]}

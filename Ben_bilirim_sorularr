@@ -2542,53 +2542,138 @@
 		"cevap":"11"
 	},
 	{
-		"soru_id":"20",
-		"soru":"",
-		"secenekA":"Depl",
-		"secenekB":"Röv",
-		"secenekC":"De",
+		"soru_id":"285",
+		"soru":"“Er meydanı” hangi sporlar ilgili bir terimdir?",
+		"secenekA":"Halter",
+		"secenekB":"Güreş",
+		"secenekC":"Cirit",
 		"timer":"10",
-		"cevap":"Deplasman"
+		"cevap":"Güreş"
 	},
 	{
-		"soru_id":"20",
-		"soru":"",
-		"secenekA":"Depl",
-		"secenekB":"Röv",
-		"secenekC":"De",
-		"timer":"10",
-		"cevap":"Deplasman"
+		"soru_id":"286",
+		"soru":"İmralı adası hangi ile bağlıdır?",
+		"secenekA":"Yalova",
+		"secenekB":"Balıkesir",
+		"secenekC":"Bursa",
+		"timer":"30",
+		"cevap":"Bursa"
 	},
 	{
-		"soru_id":"20",
-		"soru":"",
-		"secenekA":"Depl",
-		"secenekB":"Röv",
-		"secenekC":"De",
-		"timer":"10",
-		"cevap":"Deplasman"
+		"soru_id":"287",
+		"soru":"Kredi kartlarıın son ödeme tarihi, hesap kesim tarihinden, genellikle kaç gün sonradır?",
+		"secenekA":"10",
+		"secenekB":"15",
+		"secenekC":"5",
+		"timer":"30",
+		"cevap":"10"
 	},
 	{
-		"soru_id":"20",
-		"soru":"",
-		"secenekA":"Depl",
-		"secenekB":"Röv",
-		"secenekC":"De",
-		"timer":"10",
-		"cevap":"Deplasman"
+		"soru_id":"288",
+		"soru":"Şehir girişlerinde yer alan şehir tabelalarında, nüfus bilgisi dışında hangi bilgi yer alır?",
+		"secenekA":"Rakım",
+		"secenekB":"Yüz ölçümü",
+		"secenekC":"Bölge adı",
+		"timer":"20",
+		"cevap":"Rakım"
 	},
 	{
-		"soru_id":"20",
-		"soru":"",
-		"secenekA":"Depl",
-		"secenekB":"Röv",
-		"secenekC":"De",
-		"timer":"10",
-		"cevap":"Deplasman"
+		"soru_id":"289",
+		"soru":"Sinema salonlarında film araları kaç dakikadır?",
+		"secenekA":"5",
+		"secenekB":"10",
+		"secenekC":"20",
+		"timer":"15",
+		"cevap":"10"
 	},
-	
-	
-	
-	
-	
+	{
+		"soru_id":"290",
+		"soru":"Diyet listelerinde, sabah kahvaltısında önerilen peynirin ölçüsü nedir?",
+		"secenekA":"Kibrit kutusu",
+		"secenekB":"Çay kaşığı",
+		"secenekC":"Bir fincan",
+		"timer":"10",
+		"cevap":"Kibrit kutusu"
+	},
+	{
+		"soru_id":"291",
+		"soru":"Devrik lider Muammer Kaddafi’nin rütbesi nedir?",
+		"secenekA":"General",
+		"secenekB":"Albay",
+		"secenekC":"Orgeneral",
+		"timer":"10",
+		"cevap":"Albay"
+	},
+	{
+		"soru_id":"292",
+		"soru":"“Hayvanlar üzerinde deney yapılmamıştır” ibaresi kozmetik ürünlerde hangi hayvan çizimiyle ifade edilir?",
+		"secenekA":"Kuzu",
+		"secenekB":"Yunus",
+		"secenekC":"Tavşan",
+		"timer":"120",
+		"cevap":"Tavşan"
+	},
+	{
+		"soru_id":"293",
+		"soru":"“Eğer suikastten kurtulmak Olimpik bir spor olsaydı, altın madalyanın sahibi ben olurdum” sözünün sahibi CIA’nın ünlü düşmanı kimdir?",
+		"secenekA":"Fidel Castro",
+		"secenekB":"Ernesto Che Guevara",
+		"secenekC":"Çakal Carlos",
+		"timer":"120",
+		"cevap":"Fidel Castro"
+	},
+	{
+		"soru_id":"294",
+		"soru":"Hangi ülkenin resmi dili yoktur?",
+		"secenekA":"İsviçre",
+		"secenekB":"ABD",
+		"secenekC":"İran",
+		"timer":"120",
+		"cevap":"ABD"
+	},
+	{
+		"soru_id":"295",
+		"soru":"Paslanmaz çeliği paslanmaz yapan madde hangisidir?",
+		"secenekA":"Civa",
+		"secenekB":"Boksit",
+		"secenekC":"Krom",
+		"timer":"120",
+		"cevap":"Krom"
+	},
+	{
+		"soru_id":"296",
+		"soru":"Milli Piyangonu’nun hangi şans oyununda, hiçbir numarayı doğru tahmin edemeyenlere de ikramiye verilir?",
+		"secenekA":"Süper loto",
+		"secenekB":"On numara",
+		"secenekC":"Sayısal loto",
+		"timer":"10",
+		"cevap":"On numara"
+	},
+	{
+		"soru_id":"298",
+		"soru":"Bulmaca dergilerinde genellikle iki resim arasındaki kaç farkı bulmamız istenir?",
+		"secenekA":"1",
+		"secenekB":"5",
+		"secenekC":"7",
+		"timer":"20",
+		"cevap":"7"
+	},
+	{
+		"soru_id":"299",
+		"soru":"“Gönül meselesi” hangi duyguyla ilgili sorunları tanımlamak için kullanılır?",
+		"secenekA":"Aşk",
+		"secenekB":"Özlem",
+		"secenekC":"Nefret",
+		"timer":"10",
+		"cevap":"Aşk"
+	},
+	{
+		"soru_id":"300",
+		"soru":"Yarı yarıya, eşit paylarla bölüşme anlamında kullanılan söz hangisidir?",
+		"secenekA":"Aslan payı",
+		"secenekB":"Kardeş payı",
+		"secenekC":"Göz hakkı",
+		"timer":"10",
+		"cevap":"Kardeş payı"
+	}	
 ]}
